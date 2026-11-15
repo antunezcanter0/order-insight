@@ -8,9 +8,10 @@ El trabajo está dividido en fases:
    intencionados.
 2. **Limpieza y persistencia** (Fase 3): valida los pedidos, elimina
    duplicados y registros inválidos, y guarda los datos válidos en SQLite.
+3. **Vistas SQL** (Fase 4): crea vistas de análisis sobre la tabla `orders`.
 
-Las vistas SQL, la API con FastAPI y la integración con el LLM se abordarán
-en fases posteriores.
+La API con FastAPI y la integración con el LLM se abordarán en fases
+posteriores.
 
 ## Requisitos
 
@@ -30,12 +31,14 @@ pip install -r requirements.txt
 app/
   generate_orders.py     # generador del CSV de ejemplo
   clean_orders.py        # limpieza y persistencia en SQLite
+  create_views.py        # vistas SQL de análisis
 data/
   orders_raw.csv         # datos originales (no se modifican)
   orders.db              # base de datos generada (no versionada)
 tests/
   test_generate_orders.py
   test_clean_orders.py
+  test_create_views.py
 ```
 
 ## Fase 1: generar los pedidos
@@ -115,6 +118,70 @@ Campos obligatorios vacíos:  0
 Registros válidos guardados: 940
 Base de datos:               data/orders.db
 ```
+
+## Fase 4: vistas SQL de análisis
+
+Crea dos vistas sobre la tabla `orders` de `data/orders.db`:
+
+```bash
+python -m app.create_views
+```
+
+También se puede indicar otra base de datos:
+
+```bash
+python -m app.create_views --db data/orders.db
+```
+
+Las vistas se eliminan y recrean dentro de una transacción, por lo que el
+comando puede ejecutarse tantas veces como se quiera sin errores y siempre
+deja la definición actual. No modifican la tabla `orders` ni crean tablas
+adicionales. Las vistas se conservan aunque después se ejecute de nuevo
+`python -m app.clean_orders`, que reconstruye `orders` con los mismos
+campos.
+
+Ambas vistas incluyen **todos los estados** de pedido (`delivered`,
+`shipped`, `pending`, `cancelled` y `returned`): no se aplica ningún filtro
+por estado, ya que el análisis contempla el conjunto completo de pedidos.
+
+### `sales_by_month_country`
+
+Agrupa los pedidos por año, mes y país:
+
+| Columna | Descripción |
+|---|---|
+| `year` | Año del pedido (entero). |
+| `month` | Mes del pedido (entero, 1-12). |
+| `country` | País del pedido. |
+| `total_orders` | Cantidad de pedidos del grupo. |
+| `total_sales` | Suma de los importes del grupo. |
+| `average_order_value` | Importe medio por pedido del grupo. |
+
+```sql
+SELECT *
+FROM sales_by_month_country
+ORDER BY year, month, country;
+```
+
+### `top_10_customers`
+
+Devuelve los diez clientes con mayor volumen de ventas:
+
+| Columna | Descripción |
+|---|---|
+| `customer` | Nombre del cliente. |
+| `total_orders` | Cantidad de pedidos del cliente. |
+| `total_sales` | Suma de los importes de sus pedidos. |
+| `average_order_value` | Importe medio por pedido del cliente. |
+
+```sql
+SELECT *
+FROM top_10_customers
+ORDER BY total_sales DESC, customer ASC;
+```
+
+La vista ya aplica `ORDER BY total_sales DESC, customer ASC` y `LIMIT 10`;
+el `ORDER BY` del ejemplo hace explícito el orden de presentación.
 
 ## Pruebas
 
