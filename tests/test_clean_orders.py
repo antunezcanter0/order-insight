@@ -282,5 +282,32 @@ class CleanOrdersTest(unittest.TestCase):
         self.assertEqual(file_digest(REAL_CSV), before)
 
 
+def test_clean_orders_pytest_cleans_and_persists(tmp_path: Path) -> None:
+    csv_path = tmp_path / "orders.csv"
+    db_path = tmp_path / "orders.db"
+    write_csv(
+        csv_path,
+        [
+            valid_row("ORD-1", amount="10.00"),
+            valid_row("ORD-1", amount="99.99"),
+            valid_row("ORD-2", order_date="2025/01/01"),
+            valid_row("ORD-3", amount="importe inválido"),
+            valid_row("ORD-4", amount="40.00"),
+        ],
+    )
+
+    report = clean_orders(csv_path, db_path)
+
+    assert report.total_rows == 5
+    assert report.duplicates == 1
+    assert report.invalid_dates == 1
+    assert report.invalid_amounts == 1
+    assert report.stored == 2
+
+    orders = read_orders(db_path)
+    assert [row["order_id"] for row in orders] == ["ORD-1", "ORD-4"]
+    assert orders[0]["amount"] == 10.0
+
+
 if __name__ == "__main__":
     unittest.main()

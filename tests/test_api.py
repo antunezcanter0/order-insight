@@ -317,5 +317,51 @@ class QueryApiTest(unittest.TestCase):
         self.assertIn("No uses SELECT INTO", prompt)
 
 
+def test_query_endpoint_pytest_uses_fake_generator(tmp_path: Path) -> None:
+    csv_path = tmp_path / "orders.csv"
+    db_path = tmp_path / "orders.db"
+    write_csv(
+        csv_path,
+        [
+            order("ORD-1", "2024-01-01", "Ana Torres", "España", "100.00"),
+            order("ORD-2", "2024-01-02", "Luis Pérez", "España", "200.00"),
+            order("ORD-3", "2024-02-01", "Carlos Mendoza", "México", "300.00"),
+        ],
+    )
+    clean_orders(csv_path, db_path)
+
+    generator = FakeGenerator(
+        sql=(
+            "SELECT country, SUM(amount) AS total_sales "
+            "FROM orders GROUP BY country ORDER BY country"
+        )
+    )
+    service = QueryService(
+        generator=generator,
+        db_path=db_path,
+        max_result_rows=200,
+        sql_timeout_seconds=2.0,
+    )
+
+    with TestClient(create_app(service=service)) as client:
+        response = client.post(
+            "/query",
+            json={"question": "¿Cuánto se vendió por país?"},
+        )
+
+    assert response.status_code == 200
+    payload = response.json()
+    assert payload["columns"] == ["country", "total_sales"]
+    assert [row["country"] for row in payload["rows"]] == ["España", "México"]
+    assert [row["total_sales"] for row in payload["rows"]] == [300.0, 300.0]
+    assert payload["row_count"] == 2
+    assert payload["truncated"] is False
+    assert payload["sql"] == (
+        "SELECT country, SUM(amount) AS total_sales "
+        "FROM orders GROUP BY country ORDER BY country"
+    )
+    assert generator.questions == ["¿Cuánto se vendió por país?"]
+
+
 if __name__ == "__main__":
     unittest.main()
