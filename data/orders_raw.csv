@@ -1,0 +1,1001 @@
+order_id,order_date,customer,country,product,amount,status
+ORD-000001,2024-09-07,Carlos Mendoza,México,Laptop Pro 14,1056.25,shipped
+ORD-000002,2025-07-12,Carlos Mendoza,México,Escritorio ajustable,266.08,shipped
+ORD-000003,2024-08-11,Miguel Chávez,Perú,Laptop Pro 14,1062.86,delivered
+ORD-000004,2025-10-27,Claire Dubois,Francia,Laptop Pro 14,1390.93,shipped
+ORD-000005,2024-10-11,Miguel Chávez,Perú,Teclado mecánico,129.99,delivered
+ORD-000006,2025/12/15,Ana Torres,España,Smartphone X,638.09,pending
+ORD-000007,2024-12-10,Camila Rojas,Chile,"Monitor 27""",204.53,delivered
+ORD-000008,2024-12-18,Rosa Quispe,Perú,Laptop Air 13,1001.86,delivered
+ORD-000009,2024-05-07,Luis Fernández,España,"Tablet 10""",587.90,delivered
+ORD-000010,2025-10-05,Rosa Quispe,Perú,Laptop Air 13,1009.26,shipped
+ORD-000011,2024-03-12,Mateo Acosta,Argentina,Silla ergonómica,136.50,delivered
+ORD-000012,2024-03-22,Andrés Salazar,Colombia,Smartphone X,984.25,delivered
+ORD-000013,2025-10-12,Carlos Mendoza,México,Altavoz portátil,154.29,delivered
+ORD-000014,2025-11-17,Jorge Castillo,México,Auriculares Bluetooth,100.09,delivered
+ORD-000015,2025-06-30,Marta Ruiz,España,Silla ergonómica,382.49,shipped
+ORD-000016,2025-10-17,Jorge Castillo,México,Cámara web HD,105.70,delivered
+ORD-000017,2024-02-27,Andrés Salazar,Colombia,Escritorio ajustable,,delivered
+ORD-000018,2024-10-01,Luis Fernández,España,Smartphone X,352.95,delivered
+ORD-000019,2024-08-05,Jonas Weber,Alemania,Router WiFi 6,157.98,shipped
+ORD-000020,2025-04-14,Rosa Quispe,Perú,Router WiFi 6,65.72,cancelled
+ORD-000021,2025-07-05,Sofía Ramírez,México,Teclado mecánico,72.59,shipped
+ORD-000022,2025-02-12,Jonas Weber,Alemania,Altavoz portátil,81.11,pending
+ORD-000023,2024-02-18,Sofía Ramírez,México,Disco SSD 1 TB,171.94,delivered
+ORD-000024,2025-11-27,Sofía Ramírez,México,Escritorio ajustable,443.74,delivered
+ORD-000025,2025-04-24,Marta Ruiz,España,Altavoz portátil,107.01,delivered
+ORD-000026,2025-11-27,Lena Schmidt,Alemania,Impresora láser,316.22,cancelled
+ORD-000027,2025-10-18,Lena Schmidt,Alemania,Smartphone X,572.14,delivered
+ORD-000028,2024-01-04,Diego Herrera,Chile,Altavoz portátil,172.84,delivered
+ORD-000029,2025-06-03,Camila Rojas,Chile,Disco SSD 1 TB,178.64,pending
+ORD-000030,2025-09-15,Diego Herrera,Chile,Impresora láser,159.67,shipped
+ORD-000031,2025-06-27,Mateo Acosta,Argentina,Smartphone X,1034.79,delivered
+ORD-000032,2024-04-24,Claire Dubois,Francia,Auriculares Bluetooth,298.73,delivered
+ORD-000033,2025-08-03,Diego Herrera,Chile,Teclado mecánico,144.43,delivered
+ORD-000034,2024-03-11,Marta Ruiz,España,"Tablet 10""",590.09,delivered
+ORD-000035,2025-11-06,Lena Schmidt,Alemania,Smartphone X,680.23,delivered
+ORD-000036,2025-09-13,Lena Schmidt,Alemania,"Monitor 27""",281.55,delivered
+ORD-000037,2025-12-07,Valentina Gómez,Colombia,Router WiFi 6,76.21,delivered
+ORD-000038,2025-10-27,Diego Herrera,Chile,Altavoz portátil,82.88,returned
+ORD-000039,2024-08-18,Hannah Miller,Estados Unidos,Cámara web HD,37.04,delivered
+ORD-000040,2025-08-25,Ana Torres,España,Silla ergonómica,199.28,shipped
+ORD-000041,2024-08-22,Marta Ruiz,España,"Tablet 10""",180.33,shipped
+ORD-000042,2025-06-10,Luis Fernández,España,Impresora láser,171.40,delivered
+ORD-000043,2025-08-07,Daniel Smith,Estados Unidos,Teclado mecánico,105.50,delivered
+ORD-000044,2025-02-20,Andrés Salazar,Colombia,Smartphone X,452.33,delivered
+ORD-000045,2025-03-09,Carlos Mendoza,México,Escritorio ajustable,437.88,delivered
+ORD-000046,2025-10-23,Luis Fernández,España,Escritorio ajustable,272.16,shipped
+ORD-000047,2024-04-21,Rosa Quispe,Perú,"Tablet 10""",261.90,delivered
+ORD-000048,2025-03-08,Valentina Gómez,Colombia,Disco SSD 1 TB,83.85,delivered
+ORD-000049,2024-03-18,Emily Johnson,Estados Unidos,Teclado mecánico,91.53,pending
+ORD-000050,2025-07-07,Lena Schmidt,Alemania,Laptop Air 13,1118.01,delivered
+ORD-000051,2024-08-30,Marta Ruiz,España,Router WiFi 6,69.94,pending
+ORD-000052,2025-02-14,Daniel Smith,Estados Unidos,Cámara web HD,129.27,delivered
+ORD-000053,2025-02-03,Jorge Castillo,México,Altavoz portátil,66.11,delivered
+ORD-000054,"July 23, 2025",Emily Johnson,Estados Unidos,Ratón inalámbrico,51.40,delivered
+ORD-000055,2024-08-10,Daniel Smith,Estados Unidos,"Monitor 27""",412.49,delivered
+ORD-000056,2024-11-17,Jonas Weber,Alemania,"Tablet 10""",175.72,delivered
+ORD-000057,2025-06-27,Jonas Weber,Alemania,Cámara web HD,47.32,delivered
+ORD-000058,2024-03-11,Hannah Miller,Estados Unidos,Laptop Air 13,997.52,pending
+ORD-000059,2025-08-06,Andrés Salazar,Colombia,Altavoz portátil,63.16,delivered
+ORD-000060,2025-03-05,Claire Dubois,Francia,Laptop Pro 14,1360.16,shipped
+ORD-000061,2024-09-24,Jonas Weber,Alemania,Disco SSD 1 TB,86.55,delivered
+ORD-000062,2024-05-14,Lucía Ibáñez,Argentina,Teclado mecánico,115.53,delivered
+ORD-000063,2024-03-15,Diego Herrera,Chile,Cámara web HD,31.02,delivered
+ORD-000064,2024-03-16,Claire Dubois,Francia,Silla ergonómica,313.55,returned
+ORD-000065,2024-12-23,Hannah Miller,Estados Unidos,Ratón inalámbrico,63.45,delivered
+ORD-000066,24/03/2025,Andrés Salazar,Colombia,Auriculares Bluetooth,270.12,delivered
+ORD-000067,2025-10-31,Diego Herrera,Chile,Silla ergonómica,310.42,returned
+ORD-000068,2024-04-16,Lena Schmidt,Alemania,Ratón inalámbrico,66.64,cancelled
+ORD-000069,2024-04-19,Sofía Ramírez,México,Ratón inalámbrico,55.83,delivered
+ORD-000070,2024-08-03,Sofía Ramírez,México,Ratón inalámbrico,54.47,delivered
+ORD-000071,2024-09-27,Valentina Gómez,Colombia,Escritorio ajustable,487.87,shipped
+ORD-000072,2024-02-22,Camila Rojas,Chile,Router WiFi 6,56.61,cancelled
+ORD-000073,2024-01-04,Miguel Chávez,Perú,Impresora láser,200.07,delivered
+ORD-000074,2024-06-14,Sofía Ramírez,México,Escritorio ajustable,,returned
+ORD-000075,2024-01-10,Lena Schmidt,Alemania,"Tablet 10""",200.34,delivered
+ORD-000076,2025-01-13,Sofía Ramírez,México,Disco SSD 1 TB,135.73,delivered
+ORD-000077,2024-11-11,Sofía Ramírez,México,Altavoz portátil,81.52,delivered
+ORD-000078,2025-11-29,Luis Fernández,España,Router WiFi 6,84.92,delivered
+ORD-000079,2025-02-20,Carlos Mendoza,México,Auriculares Bluetooth,312.15,pending
+ORD-000080,2024-06-15,Sofía Ramírez,México,Router WiFi 6,215.72,cancelled
+ORD-000081,2024-07-02,Jorge Castillo,México,Router WiFi 6,172.58,delivered
+ORD-000082,2025/11/16,Lucía Ibáñez,Argentina,Smartphone X,991.25,cancelled
+ORD-000083,2025-12-19,Andrés Salazar,Colombia,Ratón inalámbrico,20.95,delivered
+ORD-000084,2024-07-23,Luis Fernández,España,Impresora láser,344.98,delivered
+ORD-000085,2024-08-21,Emily Johnson,Estados Unidos,Auriculares Bluetooth,86.88,delivered
+ORD-000086,2024-03-12,Valentina Gómez,Colombia,Altavoz portátil,174.87,delivered
+ORD-000087,2025-02-13,Camila Rojas,Chile,Auriculares Bluetooth,223.86,shipped
+ORD-000088,2024-04-28,Lena Schmidt,Alemania,Auriculares Bluetooth,283.11,cancelled
+ORD-000089,2024-09-28,Camila Rojas,Chile,"Monitor 27""",189.18,shipped
+ORD-000090,2024-11-17,Claire Dubois,Francia,Altavoz portátil,92.64,delivered
+ORD-000091,2025/08/13,Hannah Miller,Estados Unidos,Laptop Air 13,795.04,delivered
+ORD-000092,2025-06-16,Luis Fernández,España,"Tablet 10""",566.51,delivered
+ORD-000093,2025-11-17,Lena Schmidt,Alemania,Escritorio ajustable,324.43,shipped
+ORD-000094,"December 4, 2024",Miguel Chávez,Perú,Laptop Air 13,1011.58,cancelled
+ORD-000095,2025-06-03,Carlos Mendoza,México,"Tablet 10""",,cancelled
+ORD-000096,2024-10-29,Miguel Chávez,Perú,Auriculares Bluetooth,186.32,delivered
+ORD-000097,2025-01-23,Valentina Gómez,Colombia,Altavoz portátil,129.98,shipped
+ORD-000098,2025-02-19,Jorge Castillo,México,Silla ergonómica,317.26,shipped
+ORD-000099,2025-03-16,Ana Torres,España,Ratón inalámbrico,,delivered
+ORD-000100,2025-03-28,Claire Dubois,Francia,Escritorio ajustable,454.34,delivered
+ORD-000101,2024-06-22,Valentina Gómez,Colombia,Disco SSD 1 TB,145.65,delivered
+ORD-000102,2025-09-26,Diego Herrera,Chile,Disco SSD 1 TB,103.57,shipped
+ORD-000103,2024-07-22,Andrés Salazar,Colombia,Escritorio ajustable,298.10,delivered
+ORD-000104,2025-09-17,Luis Fernández,España,Teclado mecánico,134.22,returned
+ORD-000105,2025-10-06,Marta Ruiz,España,Cámara web HD,93.32,delivered
+ORD-000106,2024-05-31,Rosa Quispe,Perú,Cámara web HD,102.17,delivered
+ORD-000107,2024-04-19,Ana Torres,España,Router WiFi 6,180.12,pending
+ORD-000108,2025-12-13,Andrés Salazar,Colombia,"Monitor 27""",304.31,pending
+ORD-000109,2024-05-04,Luis Fernández,España,Disco SSD 1 TB,119.34,delivered
+ORD-000110,2025-07-26,Emily Johnson,Estados Unidos,Escritorio ajustable,535.59,delivered
+ORD-000111,2025-05-31,Emily Johnson,Estados Unidos,Silla ergonómica,273.63,pending
+ORD-000112,2025-05-01,Lena Schmidt,Alemania,Cámara web HD,79.51,pending
+ORD-000113,2025-06-17,Andrés Salazar,Colombia,Impresora láser,245.38,shipped
+ORD-000114,2025-12-31,Andrés Salazar,Colombia,Ratón inalámbrico,30.72,delivered
+ORD-000115,2025-07-07,Camila Rojas,Chile,Auriculares Bluetooth,44.17,delivered
+ORD-000116,2024-06-05,Sofía Ramírez,México,Teclado mecánico,119.17,delivered
+ORD-000117,2025-07-09,Marta Ruiz,España,Altavoz portátil,97.22,delivered
+ORD-000118,2025-02-02,Luis Fernández,España,Teclado mecánico,140.01,pending
+ORD-000119,2025-08-12,Jonas Weber,Alemania,"Tablet 10""",321.17,delivered
+ORD-000120,2025-02-03,Ana Torres,España,Auriculares Bluetooth,276.03,delivered
+ORD-000121,2025-07-13,Miguel Chávez,Perú,Disco SSD 1 TB,163.98,shipped
+ORD-000122,2025-03-22,Andrés Salazar,Colombia,Cámara web HD,83.42,delivered
+ORD-000123,2025-02-18,Rosa Quispe,Perú,Auriculares Bluetooth,237.25,shipped
+ORD-000124,2025-09-29,Emily Johnson,Estados Unidos,Router WiFi 6,136.14,delivered
+ORD-000125,2024-01-28,Rosa Quispe,Perú,Silla ergonómica,150.22,shipped
+ORD-000126,2024-07-05,Miguel Chávez,Perú,"Monitor 27""",192.07,pending
+ORD-000127,2024-11-30,Rosa Quispe,Perú,Auriculares Bluetooth,121.25,delivered
+ORD-000128,2025-03-07,Rosa Quispe,Perú,Ratón inalámbrico,28.87,pending
+ORD-000129,2025-07-06,Marta Ruiz,España,Cámara web HD,35.73,delivered
+ORD-000130,2025-10-29,Mateo Acosta,Argentina,Teclado mecánico,49.23,shipped
+ORD-000131,2024-01-21,Ana Torres,España,Teclado mecánico,110.24,delivered
+ORD-000132,2024-04-27,Andrés Salazar,Colombia,"Monitor 27""",315.35,delivered
+ORD-000133,2025-01-12,Valentina Gómez,Colombia,Cámara web HD,48.46,shipped
+ORD-000134,2024-06-16,Claire Dubois,Francia,"Tablet 10""",584.12,shipped
+ORD-000135,2024-11-15,Carlos Mendoza,México,Silla ergonómica,327.29,delivered
+ORD-000136,2024-07-22,Rosa Quispe,Perú,Altavoz portátil,36.78,cancelled
+ORD-000137,2024-11-04,Andrés Salazar,Colombia,Laptop Air 13,1125.15,shipped
+ORD-000138,2025-08-02,Claire Dubois,Francia,Smartphone X,926.11,delivered
+ORD-000139,2025-01-14,Mateo Acosta,Argentina,Disco SSD 1 TB,68.96,delivered
+ORD-000140,2025-05-16,Lucía Ibáñez,Argentina,Laptop Pro 14,973.88,pending
+ORD-000141,2025-04-15,Mateo Acosta,Argentina,Escritorio ajustable,594.87,pending
+ORD-000142,2025-10-28,Miguel Chávez,Perú,"Monitor 27""",244.82,shipped
+ORD-000143,2025-03-22,Lena Schmidt,Alemania,Smartphone X,960.59,delivered
+ORD-000144,2024-09-08,Jonas Weber,Alemania,Ratón inalámbrico,60.69,delivered
+ORD-000145,2024-09-06,Marta Ruiz,España,Ratón inalámbrico,56.28,pending
+ORD-000146,2024-12-10,Jonas Weber,Alemania,Silla ergonómica,130.33,shipped
+ORD-000147,2024-12-29,Lucía Ibáñez,Argentina,"Monitor 27""",371.48,delivered
+ORD-000148,2025-12-19,Lucía Ibáñez,Argentina,Ratón inalámbrico,63.41,pending
+ORD-000149,2024/07/14,Lena Schmidt,Alemania,Laptop Pro 14,959.93,delivered
+ORD-000150,2024-09-03,Miguel Chávez,Perú,Cámara web HD,105.97,shipped
+ORD-000151,2024-04-05,Daniel Smith,Estados Unidos,Cámara web HD,62.37,pending
+ORD-000152,2025-11-10,Rosa Quispe,Perú,"Tablet 10""",411.70,delivered
+ORD-000153,2025-03-11,Daniel Smith,Estados Unidos,Disco SSD 1 TB,189.56,delivered
+ORD-000154,2025-04-09,Lena Schmidt,Alemania,Auriculares Bluetooth,101.27,delivered
+ORD-000155,2024-07-16,Camila Rojas,Chile,Teclado mecánico,78.13,delivered
+ORD-000156,2024-07-15,Lena Schmidt,Alemania,Smartphone X,473.11,shipped
+ORD-000157,2025-06-21,Daniel Smith,Estados Unidos,Ratón inalámbrico,47.82,shipped
+ORD-000158,2024-08-20,Carlos Mendoza,México,Impresora láser,208.26,delivered
+ORD-000159,2024-05-09,Diego Herrera,Chile,Laptop Pro 14,1092.02,shipped
+ORD-000160,2024-05-09,Luis Fernández,España,Disco SSD 1 TB,142.92,delivered
+ORD-000161,2025-08-10,Daniel Smith,Estados Unidos,Laptop Air 13,842.17,pending
+ORD-000162,2024-02-22,Daniel Smith,Estados Unidos,Cámara web HD,57.77,delivered
+ORD-000163,2025-02-14,Daniel Smith,Estados Unidos,Laptop Air 13,945.87,pending
+ORD-000164,2024-06-04,Jonas Weber,Alemania,Escritorio ajustable,299.07,shipped
+ORD-000165,"September 11, 2024",Jonas Weber,Alemania,Ratón inalámbrico,21.51,delivered
+ORD-000166,2025-09-25,Miguel Chávez,Perú,Silla ergonómica,201.25,shipped
+ORD-000167,2025-03-29,Hannah Miller,Estados Unidos,Altavoz portátil,71.09,delivered
+ORD-000168,2025-09-27,Jonas Weber,Alemania,Altavoz portátil,34.34,delivered
+ORD-000169,2024-08-04,Carlos Mendoza,México,Smartphone X,511.72,delivered
+ORD-000170,2025-07-19,Marta Ruiz,España,"Monitor 27""",198.02,delivered
+ORD-000171,2025-08-31,Ana Torres,España,Altavoz portátil,97.84,delivered
+ORD-000172,2024-10-16,Luis Fernández,España,Teclado mecánico,118.81,delivered
+ORD-000173,2024-09-27,Emily Johnson,Estados Unidos,Laptop Air 13,1093.91,shipped
+ORD-000174,2024-07-21,Jonas Weber,Alemania,Escritorio ajustable,445.32,pending
+ORD-000175,2024-09-29,Lena Schmidt,Alemania,Teclado mecánico,131.80,shipped
+ORD-000176,2024-11-10,Marta Ruiz,España,Laptop Pro 14,1316.53,delivered
+ORD-000177,2024-05-07,Jonas Weber,Alemania,Router WiFi 6,124.37,delivered
+ORD-000178,2024-10-05,Diego Herrera,Chile,"Tablet 10""",375.21,delivered
+ORD-000179,2024-02-10,Daniel Smith,Estados Unidos,Cámara web HD,127.84,delivered
+ORD-000180,2024-04-03,Lucía Ibáñez,Argentina,Silla ergonómica,202.41,delivered
+ORD-000181,2025-11-19,Jonas Weber,Alemania,Silla ergonómica,415.71,cancelled
+ORD-000182,2024-06-28,Jonas Weber,Alemania,Laptop Pro 14,1229.35,pending
+ORD-000183,2025-08-22,Emily Johnson,Estados Unidos,Router WiFi 6,118.46,delivered
+ORD-000184,2025-02-22,Daniel Smith,Estados Unidos,Laptop Air 13,866.65,delivered
+ORD-000089,2025-02-25,Carlos Mendoza,México,Impresora láser,308.10,delivered
+ORD-000186,2025-07-17,Diego Herrera,Chile,Escritorio ajustable,239.45,cancelled
+ORD-000187,2024-04-28,Marta Ruiz,España,Auriculares Bluetooth,311.06,delivered
+ORD-000188,2024-01-02,Rosa Quispe,Perú,Impresora láser,297.30,delivered
+ORD-000189,2024-07-11,Lena Schmidt,Alemania,Cámara web HD,87.03,delivered
+ORD-000190,2025-03-28,Claire Dubois,Francia,Smartphone X,907.99,delivered
+ORD-000191,2024-10-21,Valentina Gómez,Colombia,Ratón inalámbrico,39.10,delivered
+ORD-000192,2025-10-07,Daniel Smith,Estados Unidos,Laptop Air 13,1004.44,delivered
+ORD-000193,2025-07-18,Andrés Salazar,Colombia,"Tablet 10""",156.15,delivered
+ORD-000194,2024-04-26,Miguel Chávez,Perú,Laptop Air 13,930.72,delivered
+ORD-000195,2025-05-25,Carlos Mendoza,México,Escritorio ajustable,714.31,pending
+ORD-000196,2025-03-01,Diego Herrera,Chile,Disco SSD 1 TB,168.51,shipped
+ORD-000197,2024-05-28,Daniel Smith,Estados Unidos,Teclado mecánico,85.28,delivered
+ORD-000198,2024-05-19,Claire Dubois,Francia,Disco SSD 1 TB,172.32,shipped
+ORD-000199,2025-02-28,Camila Rojas,Chile,Smartphone X,571.90,pending
+ORD-000200,2024-10-16,Hannah Miller,Estados Unidos,Ratón inalámbrico,54.93,pending
+ORD-000201,2025-05-16,Jonas Weber,Alemania,Silla ergonómica,431.49,returned
+ORD-000202,2024-12-06,Emily Johnson,Estados Unidos,Disco SSD 1 TB,131.75,delivered
+ORD-000203,2024-11-25,Lena Schmidt,Alemania,Altavoz portátil,159.79,delivered
+ORD-000204,2025-02-24,Andrés Salazar,Colombia,Silla ergonómica,135.71,delivered
+ORD-000205,2025-01-25,Daniel Smith,Estados Unidos,"Tablet 10""",323.74,cancelled
+ORD-000206,2024-05-09,Sofía Ramírez,México,Cámara web HD,85.25,returned
+ORD-000207,2025-03-26,Jonas Weber,Alemania,Auriculares Bluetooth,49.91,pending
+ORD-000208,2025-02-23,Emily Johnson,Estados Unidos,Laptop Pro 14,1509.65,shipped
+ORD-000209,2024-09-28,Sofía Ramírez,México,Laptop Air 13,869.28,delivered
+ORD-000199,2024-12-02,Rosa Quispe,Perú,Escritorio ajustable,671.74,delivered
+ORD-000211,2025-10-03,Lena Schmidt,Alemania,Altavoz portátil,136.40,cancelled
+ORD-000212,2025-09-24,Daniel Smith,Estados Unidos,Impresora láser,120.53,delivered
+ORD-000213,2025-03-20,Diego Herrera,Chile,Teclado mecánico,147.73,shipped
+ORD-000214,2024-11-02,Carlos Mendoza,México,Cámara web HD,129.38,delivered
+ORD-000215,2024-10-27,Luis Fernández,España,Auriculares Bluetooth,127.54,pending
+ORD-000216,2025-02-25,Miguel Chávez,Perú,"Monitor 27""",,delivered
+ORD-000217,2025-09-16,Jorge Castillo,México,"Monitor 27""",389.00,delivered
+ORD-000218,2025-08-20,Claire Dubois,Francia,Escritorio ajustable,295.85,delivered
+ORD-000219,2024-09-18,Emily Johnson,Estados Unidos,Escritorio ajustable,573.43,delivered
+ORD-000220,2025-07-13,Emily Johnson,Estados Unidos,Router WiFi 6,68.44,delivered
+ORD-000221,2024-11-02,Emily Johnson,Estados Unidos,Auriculares Bluetooth,211.68,returned
+ORD-000222,2024-11-05,Miguel Chávez,Perú,"Tablet 10""",239.65,delivered
+ORD-000223,2024-08-30,Rosa Quispe,Perú,Impresora láser,214.41,delivered
+ORD-000224,2025-12-17,Mateo Acosta,Argentina,Silla ergonómica,226.28,delivered
+ORD-000225,2025-12-03,Rosa Quispe,Perú,Ratón inalámbrico,57.81,delivered
+ORD-000226,2025-05-23,Luis Fernández,España,Router WiFi 6,189.91,shipped
+ORD-000227,2025-09-13,Diego Herrera,Chile,Smartphone X,941.55,pending
+ORD-000228,2024-09-13,Andrés Salazar,Colombia,Escritorio ajustable,579.22,delivered
+ORD-000229,2025-10-04,Sofía Ramírez,México,Escritorio ajustable,562.56,delivered
+ORD-000230,2025/08/16,Diego Herrera,Chile,Smartphone X,591.89,delivered
+ORD-000231,2024-11-30,Sofía Ramírez,México,Laptop Air 13,1073.74,cancelled
+ORD-000232,2025-07-06,Jorge Castillo,México,Teclado mecánico,137.03,delivered
+ORD-000233,2024-10-06,Mateo Acosta,Argentina,Disco SSD 1 TB,167.96,delivered
+ORD-000234,2025-05-08,Camila Rojas,Chile,Router WiFi 6,214.13,pending
+ORD-000235,2024-04-27,Diego Herrera,Chile,"Tablet 10""",360.75,pending
+ORD-000236,2024-08-19,Marta Ruiz,España,"Monitor 27""",386.43,pending
+ORD-000237,2025-01-09,Rosa Quispe,Perú,Impresora láser,127.09,pending
+ORD-000238,2024-05-06,Rosa Quispe,Perú,Laptop Pro 14,1218.35,delivered
+ORD-000239,2025-10-15,Camila Rojas,Chile,Silla ergonómica,458.51,delivered
+ORD-000240,2024-01-26,Carlos Mendoza,México,Escritorio ajustable,548.36,delivered
+ORD-000241,2024-08-14,Lena Schmidt,Alemania,Auriculares Bluetooth,214.30,cancelled
+ORD-000242,2025-10-26,Emily Johnson,Estados Unidos,Router WiFi 6,113.49,shipped
+ORD-000243,2024-11-07,Sofía Ramírez,México,Laptop Pro 14,1597.15,cancelled
+ORD-000244,2025-07-04,Carlos Mendoza,México,Laptop Air 13,767.83,delivered
+ORD-000245,2025-12-14,Emily Johnson,Estados Unidos,Auriculares Bluetooth,303.79,shipped
+ORD-000246,2024-06-07,Miguel Chávez,Perú,Silla ergonómica,438.75,shipped
+ORD-000247,2025-02-21,Carlos Mendoza,México,Impresora láser,381.72,delivered
+ORD-000248,2024-08-10,Camila Rojas,Chile,Laptop Pro 14,1210.37,shipped
+ORD-000249,2025-12-03,Andrés Salazar,Colombia,Impresora láser,210.20,delivered
+ORD-000250,2024-07-13,Mateo Acosta,Argentina,Laptop Pro 14,1577.74,delivered
+ORD-000251,2025-10-19,Emily Johnson,Estados Unidos,Laptop Air 13,1019.75,shipped
+ORD-000252,2024-09-06,Ana Torres,España,Laptop Pro 14,1592.17,pending
+ORD-000253,2025-07-21,Jonas Weber,Alemania,Teclado mecánico,66.75,delivered
+ORD-000254,2024-12-02,Valentina Gómez,Colombia,Impresora láser,332.31,pending
+ORD-000255,2024-05-28,Claire Dubois,Francia,Laptop Pro 14,1591.27,delivered
+ORD-000256,2024-04-22,Lena Schmidt,Alemania,Ratón inalámbrico,51.36,pending
+ORD-000257,2024-08-31,Ana Torres,España,"Monitor 27""",321.32,delivered
+ORD-000258,2024-05-09,Ana Torres,España,"Monitor 27""",358.01,delivered
+ORD-000259,2025-05-02,Hannah Miller,Estados Unidos,Laptop Air 13,924.14,shipped
+ORD-000260,2025-04-07,Mateo Acosta,Argentina,Disco SSD 1 TB,125.50,shipped
+ORD-000204,2025-11-05,Claire Dubois,Francia,Laptop Pro 14,1265.02,shipped
+ORD-000262,2024-03-03,Emily Johnson,Estados Unidos,Escritorio ajustable,749.25,returned
+ORD-000263,2025-05-17,Rosa Quispe,Perú,Altavoz portátil,135.42,shipped
+ORD-000264,2024-11-25,Emily Johnson,Estados Unidos,Laptop Air 13,1004.15,pending
+ORD-000265,2025-10-10,Marta Ruiz,España,"Monitor 27""",320.49,delivered
+ORD-000266,2025-06-27,Lucía Ibáñez,Argentina,Altavoz portátil,70.71,returned
+ORD-000267,2025-12-19,Hannah Miller,Estados Unidos,Silla ergonómica,161.19,delivered
+ORD-000268,2025-03-16,Lena Schmidt,Alemania,"Tablet 10""",353.20,pending
+ORD-000269,2025-04-09,Andrés Salazar,Colombia,Altavoz portátil,86.80,delivered
+ORD-000270,2025-11-12,Carlos Mendoza,México,Auriculares Bluetooth,96.47,delivered
+ORD-000271,2024-03-09,Sofía Ramírez,México,Escritorio ajustable,268.35,cancelled
+ORD-000272,2025-01-16,Marta Ruiz,España,Laptop Air 13,1105.88,delivered
+ORD-000273,29-07-2025,Lena Schmidt,Alemania,Laptop Pro 14,1293.18,shipped
+ORD-000274,2025-11-12,Carlos Mendoza,México,Altavoz portátil,170.88,delivered
+ORD-000275,2024-02-22,Miguel Chávez,Perú,Impresora láser,390.52,cancelled
+ORD-000276,2025-08-14,Claire Dubois,Francia,Ratón inalámbrico,42.91,delivered
+ORD-000277,2024-04-20,Sofía Ramírez,México,Escritorio ajustable,405.56,delivered
+ORD-000278,2024-10-12,Lena Schmidt,Alemania,Auriculares Bluetooth,192.23,delivered
+ORD-000279,2025-09-28,Miguel Chávez,Perú,Impresora láser,284.07,shipped
+ORD-000280,2025-11-04,Lena Schmidt,Alemania,Laptop Pro 14,1480.62,shipped
+ORD-000281,2025-12-20,Camila Rojas,Chile,Laptop Pro 14,1433.69,delivered
+ORD-000282,2024-05-26,Lucía Ibáñez,Argentina,Auriculares Bluetooth,189.90,delivered
+ORD-000283,2025-10-10,Rosa Quispe,Perú,Laptop Air 13,1185.91,delivered
+ORD-000071,2025-01-20,Marta Ruiz,España,"Tablet 10""",338.92,delivered
+ORD-000285,2024-11-28,Lucía Ibáñez,Argentina,"Monitor 27""",366.44,delivered
+ORD-000286,2024-02-23,Jonas Weber,Alemania,Silla ergonómica,176.01,delivered
+ORD-000287,2024-10-05,Claire Dubois,Francia,Laptop Pro 14,1210.18,shipped
+ORD-000288,2025-02-28,Miguel Chávez,Perú,Cámara web HD,60.05,shipped
+ORD-000289,2024-04-23,Hannah Miller,Estados Unidos,Laptop Air 13,841.62,delivered
+ORD-000290,2024-11-11,Jonas Weber,Alemania,Cámara web HD,35.00,delivered
+ORD-000291,2024-07-28,Rosa Quispe,Perú,Silla ergonómica,228.51,delivered
+ORD-000292,2024-09-18,Valentina Gómez,Colombia,Smartphone X,531.56,delivered
+ORD-000293,2025-03-16,Carlos Mendoza,México,Laptop Pro 14,1022.99,delivered
+ORD-000294,2025-05-27,Rosa Quispe,Perú,Disco SSD 1 TB,132.63,shipped
+ORD-000295,2024-02-13,Mateo Acosta,Argentina,Laptop Air 13,918.11,delivered
+ORD-000296,2024-11-16,Emily Johnson,Estados Unidos,Router WiFi 6,143.64,delivered
+ORD-000297,2025-03-03,Jonas Weber,Alemania,Altavoz portátil,,shipped
+ORD-000298,2024-06-24,Rosa Quispe,Perú,Laptop Pro 14,1460.93,returned
+ORD-000299,2025-01-05,Claire Dubois,Francia,Cámara web HD,39.69,pending
+ORD-000300,2025-02-14,Carlos Mendoza,México,Teclado mecánico,100.02,delivered
+ORD-000301,2024-12-13,Rosa Quispe,Perú,Impresora láser,166.47,delivered
+ORD-000302,2024-04-26,Jorge Castillo,México,Laptop Air 13,965.30,delivered
+ORD-000303,2024-12-25,Valentina Gómez,Colombia,Router WiFi 6,170.93,pending
+ORD-000304,2024-09-19,Sofía Ramírez,México,Teclado mecánico,65.71,delivered
+ORD-000305,2025-11-02,Claire Dubois,Francia,"Monitor 27""",198.08,pending
+ORD-000306,2025-08-16,Daniel Smith,Estados Unidos,Cámara web HD,,pending
+ORD-000307,2025-10-01,Jonas Weber,Alemania,Escritorio ajustable,391.30,shipped
+ORD-000308,2025-04-25,Lucía Ibáñez,Argentina,"Monitor 27""",286.13,delivered
+ORD-000309,2024-02-27,Diego Herrera,Chile,Smartphone X,581.55,delivered
+ORD-000310,2024-02-08,Marta Ruiz,España,Ratón inalámbrico,18.13,delivered
+ORD-000311,2024-04-02,Diego Herrera,Chile,Laptop Air 13,1007.50,shipped
+ORD-000312,2025-07-21,Hannah Miller,Estados Unidos,Altavoz portátil,172.91,delivered
+ORD-000313,2025-08-08,Luis Fernández,España,Cámara web HD,101.70,cancelled
+ORD-000314,2024-06-03,Lucía Ibáñez,Argentina,Silla ergonómica,464.78,delivered
+ORD-000315,2024-12-17,Emily Johnson,Estados Unidos,Laptop Air 13,1191.19,pending
+ORD-000061,2024-02-10,Marta Ruiz,España,Disco SSD 1 TB,92.21,shipped
+ORD-000317,2025-09-16,Emily Johnson,Estados Unidos,Cámara web HD,47.46,delivered
+ORD-000318,2025-02-22,Mateo Acosta,Argentina,Router WiFi 6,179.40,delivered
+ORD-000319,2025-10-24,Claire Dubois,Francia,Laptop Pro 14,1134.25,pending
+ORD-000320,2025-01-30,Lucía Ibáñez,Argentina,Laptop Air 13,842.07,shipped
+ORD-000321,2024-03-24,Claire Dubois,Francia,Impresora láser,274.82,delivered
+ORD-000322,2025-11-02,Sofía Ramírez,México,Router WiFi 6,165.73,delivered
+ORD-000323,2024-03-27,Rosa Quispe,Perú,"Monitor 27""",254.30,shipped
+ORD-000324,2024-05-10,Rosa Quispe,Perú,Escritorio ajustable,575.16,pending
+ORD-000325,2025-03-09,Hannah Miller,Estados Unidos,Laptop Air 13,954.24,shipped
+ORD-000326,2024-08-07,Ana Torres,España,Auriculares Bluetooth,122.52,delivered
+ORD-000327,2024-05-20,Daniel Smith,Estados Unidos,Teclado mecánico,61.27,delivered
+ORD-000328,2025-06-03,Diego Herrera,Chile,Impresora láser,331.26,pending
+ORD-000329,2025-09-24,Hannah Miller,Estados Unidos,Laptop Pro 14,991.73,shipped
+ORD-000330,2025-12-10,Rosa Quispe,Perú,"Monitor 27""",365.06,delivered
+ORD-000331,2025-02-24,Jorge Castillo,México,"Tablet 10""",313.93,delivered
+ORD-000332,2025-04-04,Andrés Salazar,Colombia,Cámara web HD,55.74,shipped
+ORD-000333,2025-04-25,Andrés Salazar,Colombia,Ratón inalámbrico,64.72,returned
+ORD-000334,2025-08-07,Valentina Gómez,Colombia,Auriculares Bluetooth,315.33,shipped
+ORD-000335,2025-01-26,Emily Johnson,Estados Unidos,Smartphone X,702.33,delivered
+ORD-000336,2025-09-11,Miguel Chávez,Perú,"Monitor 27""",213.22,pending
+ORD-000337,2025-01-15,Camila Rojas,Chile,Laptop Pro 14,1288.18,shipped
+ORD-000338,2024-05-07,Carlos Mendoza,México,"Tablet 10""",278.28,pending
+ORD-000339,2025-06-09,Jorge Castillo,México,Ratón inalámbrico,23.10,delivered
+ORD-000340,2024-08-15,Miguel Chávez,Perú,Laptop Air 13,1108.35,cancelled
+ORD-000341,2024-02-24,Mateo Acosta,Argentina,Router WiFi 6,111.36,delivered
+ORD-000342,2024-03-24,Mateo Acosta,Argentina,Teclado mecánico,84.37,delivered
+ORD-000343,2025-10-27,Ana Torres,España,Auriculares Bluetooth,120.59,cancelled
+ORD-000344,2025-04-28,Sofía Ramírez,México,"Monitor 27""",347.06,delivered
+ORD-000345,2025-04-04,Sofía Ramírez,México,Smartphone X,792.28,shipped
+ORD-000346,2024-06-02,Marta Ruiz,España,Laptop Pro 14,1284.16,delivered
+ORD-000347,2024-10-22,Claire Dubois,Francia,Disco SSD 1 TB,90.89,delivered
+ORD-000348,2025-10-16,Carlos Mendoza,México,Laptop Pro 14,1455.73,delivered
+ORD-000349,2025-05-26,Emily Johnson,Estados Unidos,Laptop Air 13,998.37,delivered
+ORD-000350,2024-09-04,Ana Torres,España,Escritorio ajustable,600.83,delivered
+ORD-000351,2024-12-27,Diego Herrera,Chile,Altavoz portátil,62.29,delivered
+ORD-000352,2024-03-28,Miguel Chávez,Perú,"Monitor 27""",305.64,shipped
+ORD-000353,2025-07-11,Mateo Acosta,Argentina,Laptop Air 13,953.66,cancelled
+ORD-000354,2025-04-26,Hannah Miller,Estados Unidos,Disco SSD 1 TB,65.66,delivered
+ORD-000355,2024-01-17,Rosa Quispe,Perú,Auriculares Bluetooth,127.13,delivered
+ORD-000356,2025-11-03,Marta Ruiz,España,Auriculares Bluetooth,208.48,delivered
+ORD-000357,2024-05-16,Jonas Weber,Alemania,"Tablet 10""",169.95,pending
+ORD-000358,2024-06-28,Lena Schmidt,Alemania,Auriculares Bluetooth,269.12,pending
+ORD-000359,2024-07-05,Emily Johnson,Estados Unidos,"Tablet 10""",515.17,delivered
+ORD-000360,2025-04-13,Marta Ruiz,España,"Tablet 10""",166.64,pending
+ORD-000361,2024-02-12,Valentina Gómez,Colombia,Laptop Pro 14,1120.92,pending
+ORD-000362,2025-07-10,Diego Herrera,Chile,Disco SSD 1 TB,121.54,delivered
+ORD-000363,2024-10-19,Luis Fernández,España,Smartphone X,585.58,shipped
+ORD-000364,2024-10-06,Luis Fernández,España,Impresora láser,137.34,shipped
+ORD-000365,2025-03-26,Mateo Acosta,Argentina,Altavoz portátil,163.67,pending
+ORD-000366,2025-05-23,Rosa Quispe,Perú,Auriculares Bluetooth,227.62,returned
+ORD-000367,2024-09-30,Mateo Acosta,Argentina,Router WiFi 6,184.21,pending
+ORD-000368,2024-07-03,Miguel Chávez,Perú,Laptop Air 13,972.74,delivered
+ORD-000369,2025-11-07,Lucía Ibáñez,Argentina,Laptop Air 13,847.82,delivered
+ORD-000370,2024-06-19,Emily Johnson,Estados Unidos,Silla ergonómica,368.32,shipped
+ORD-000371,2024-12-27,Mateo Acosta,Argentina,Cámara web HD,97.63,delivered
+ORD-000372,2024-02-28,Miguel Chávez,Perú,Ratón inalámbrico,19.13,shipped
+ORD-000373,2025-11-26,Rosa Quispe,Perú,Auriculares Bluetooth,68.00,delivered
+ORD-000374,2025-11-25,Ana Torres,España,"Monitor 27""",367.51,pending
+ORD-000375,2025-10-22,Luis Fernández,España,"Monitor 27""",267.92,delivered
+ORD-000118,2024-06-06,Rosa Quispe,Perú,Silla ergonómica,364.46,delivered
+ORD-000377,2024-03-19,Mateo Acosta,Argentina,Auriculares Bluetooth,192.18,delivered
+ORD-000378,2025-10-27,Hannah Miller,Estados Unidos,Auriculares Bluetooth,,delivered
+ORD-000379,2025-05-26,Carlos Mendoza,México,Laptop Pro 14,1262.42,shipped
+ORD-000380,2024-09-23,Lena Schmidt,Alemania,Laptop Air 13,1052.02,delivered
+ORD-000229,2025-05-17,Valentina Gómez,Colombia,Silla ergonómica,192.06,delivered
+ORD-000382,2024-06-25,Sofía Ramírez,México,Impresora láser,369.60,delivered
+ORD-000383,2024-11-23,Emily Johnson,Estados Unidos,Laptop Air 13,1033.92,pending
+ORD-000384,2024-11-03,Marta Ruiz,España,Disco SSD 1 TB,170.68,delivered
+ORD-000385,2024-08-17,Jorge Castillo,México,Smartphone X,397.09,delivered
+ORD-000386,2025-05-20,Valentina Gómez,Colombia,Smartphone X,321.03,delivered
+ORD-000387,18/07/2025,Lena Schmidt,Alemania,Silla ergonómica,166.72,delivered
+ORD-000388,2025-05-05,Marta Ruiz,España,Laptop Air 13,962.85,delivered
+ORD-000389,2024-05-08,Miguel Chávez,Perú,Impresora láser,391.71,shipped
+ORD-000390,2025-06-13,Marta Ruiz,España,Cámara web HD,67.90,delivered
+ORD-000391,2024-05-12,Lena Schmidt,Alemania,Escritorio ajustable,449.29,shipped
+ORD-000392,2024-06-05,Luis Fernández,España,Impresora láser,191.24,delivered
+ORD-000393,2024-08-18,Jorge Castillo,México,Auriculares Bluetooth,123.81,cancelled
+ORD-000394,2024-03-21,Hannah Miller,Estados Unidos,Router WiFi 6,85.11,delivered
+ORD-000395,2024-11-06,Lena Schmidt,Alemania,Ratón inalámbrico,48.79,delivered
+ORD-000396,2025-08-29,Marta Ruiz,España,Disco SSD 1 TB,182.41,shipped
+ORD-000397,2025-09-11,Sofía Ramírez,México,"Monitor 27""",261.03,shipped
+ORD-000398,2024-01-30,Jonas Weber,Alemania,Laptop Pro 14,956.86,pending
+ORD-000399,2025-08-08,Jonas Weber,Alemania,Ratón inalámbrico,37.91,shipped
+ORD-000400,2025-07-12,Ana Torres,España,Cámara web HD,61.86,pending
+ORD-000401,2025-12-02,Diego Herrera,Chile,Cámara web HD,74.67,delivered
+ORD-000402,2024-06-10,Emily Johnson,Estados Unidos,Laptop Air 13,919.80,shipped
+ORD-000403,2025-09-13,Daniel Smith,Estados Unidos,Cámara web HD,45.80,delivered
+ORD-000404,2024-12-19,Lucía Ibáñez,Argentina,"Tablet 10""",588.92,returned
+ORD-000405,2025-07-29,Sofía Ramírez,México,Smartphone X,384.95,delivered
+ORD-000406,05-04-2025,Andrés Salazar,Colombia,Cámara web HD,57.27,delivered
+ORD-000407,2025-01-28,Carlos Mendoza,México,Laptop Pro 14,1504.91,delivered
+ORD-000401,2024-06-12,Miguel Chávez,Perú,Teclado mecánico,130.42,returned
+ORD-000409,2024-06-12,Jonas Weber,Alemania,"Tablet 10""",374.22,delivered
+ORD-000410,2024-11-11,Hannah Miller,Estados Unidos,Cámara web HD,84.71,delivered
+ORD-000411,2024-09-03,Marta Ruiz,España,Altavoz portátil,58.35,delivered
+ORD-000412,2025-05-21,Mateo Acosta,Argentina,Laptop Pro 14,1318.26,delivered
+ORD-000413,2024-04-20,Daniel Smith,Estados Unidos,Ratón inalámbrico,38.70,delivered
+ORD-000414,2025-02-16,Camila Rojas,Chile,"Tablet 10""",314.67,delivered
+ORD-000415,2024-07-18,Rosa Quispe,Perú,Laptop Pro 14,1153.77,shipped
+ORD-000416,2025-04-06,Diego Herrera,Chile,Laptop Air 13,1082.20,delivered
+ORD-000417,2025-11-27,Camila Rojas,Chile,Impresora láser,283.31,returned
+ORD-000418,2024-12-13,Sofía Ramírez,México,Laptop Air 13,978.92,delivered
+ORD-000419,2025-09-08,Mateo Acosta,Argentina,Smartphone X,707.30,delivered
+ORD-000420,2024-05-20,Hannah Miller,Estados Unidos,Laptop Pro 14,1399.51,delivered
+ORD-000421,2025-09-12,Daniel Smith,Estados Unidos,Disco SSD 1 TB,176.11,delivered
+ORD-000422,2024-11-22,Sofía Ramírez,México,Auriculares Bluetooth,68.75,cancelled
+ORD-000423,2025-08-30,Claire Dubois,Francia,"Tablet 10""",301.37,pending
+ORD-000424,2025-07-30,Hannah Miller,Estados Unidos,Disco SSD 1 TB,98.97,delivered
+ORD-000359,2024-04-22,Ana Torres,España,Auriculares Bluetooth,313.97,delivered
+ORD-000426,2025-12-05,Jonas Weber,Alemania,Ratón inalámbrico,,pending
+ORD-000427,2025-11-02,Claire Dubois,Francia,Cámara web HD,116.12,delivered
+ORD-000428,2024-02-22,Jonas Weber,Alemania,Silla ergonómica,330.07,delivered
+ORD-000429,2025-09-26,Jorge Castillo,México,Disco SSD 1 TB,160.70,shipped
+ORD-000430,2024-09-05,Rosa Quispe,Perú,"Monitor 27""",187.58,pending
+ORD-000431,2024-11-17,Carlos Mendoza,México,Teclado mecánico,,delivered
+ORD-000432,2025-05-28,Miguel Chávez,Perú,"Tablet 10""",498.74,delivered
+ORD-000433,2024-03-04,Daniel Smith,Estados Unidos,Impresora láser,311.73,pending
+ORD-000434,2025-11-09,Hannah Miller,Estados Unidos,Teclado mecánico,95.23,shipped
+ORD-000435,2025-04-15,Rosa Quispe,Perú,Auriculares Bluetooth,293.64,cancelled
+ORD-000436,2025-11-28,Lucía Ibáñez,Argentina,Disco SSD 1 TB,143.63,delivered
+ORD-000437,2024-09-09,Camila Rojas,Chile,Silla ergonómica,,delivered
+ORD-000438,2024-10-31,Diego Herrera,Chile,Teclado mecánico,125.97,cancelled
+ORD-000439,2024-11-20,Valentina Gómez,Colombia,"Tablet 10""",365.91,shipped
+ORD-000440,2024-10-07,Lena Schmidt,Alemania,Router WiFi 6,91.80,cancelled
+ORD-000441,2025-02-08,Jonas Weber,Alemania,Escritorio ajustable,653.74,delivered
+ORD-000442,2024-03-21,Sofía Ramírez,México,Ratón inalámbrico,34.05,delivered
+ORD-000443,2025-05-05,Emily Johnson,Estados Unidos,Escritorio ajustable,333.41,delivered
+ORD-000444,2025-12-13,Lena Schmidt,Alemania,Ratón inalámbrico,29.94,cancelled
+ORD-000445,2024-09-02,Carlos Mendoza,México,Silla ergonómica,207.28,shipped
+ORD-000446,2024-02-23,Hannah Miller,Estados Unidos,Teclado mecánico,55.52,shipped
+ORD-000447,2025-11-28,Lucía Ibáñez,Argentina,"Tablet 10""",496.84,delivered
+ORD-000448,2024-06-10,Ana Torres,España,Disco SSD 1 TB,112.90,returned
+ORD-000449,2024-10-21,Daniel Smith,Estados Unidos,Cámara web HD,65.33,shipped
+ORD-000450,2025-10-29,Luis Fernández,España,Router WiFi 6,143.34,pending
+ORD-000451,2024-02-08,Lena Schmidt,Alemania,"Tablet 10""",560.95,shipped
+ORD-000452,2024-06-29,Jorge Castillo,México,Altavoz portátil,169.76,pending
+ORD-000453,2025-05-22,Luis Fernández,España,Impresora láser,155.89,delivered
+ORD-000454,2024-11-01,Diego Herrera,Chile,Router WiFi 6,142.23,delivered
+ORD-000455,2024/10/18,Carlos Mendoza,México,Router WiFi 6,121.78,returned
+ORD-000456,2024-05-17,Lena Schmidt,Alemania,Disco SSD 1 TB,170.64,delivered
+ORD-000457,2024-04-25,Emily Johnson,Estados Unidos,Ratón inalámbrico,33.19,delivered
+ORD-000458,2024-07-09,Emily Johnson,Estados Unidos,Escritorio ajustable,227.46,delivered
+ORD-000459,2025-11-21,Lucía Ibáñez,Argentina,Smartphone X,905.83,delivered
+ORD-000460,2025-02-19,Jorge Castillo,México,Silla ergonómica,417.72,pending
+ORD-000461,2025-11-16,Hannah Miller,Estados Unidos,Auriculares Bluetooth,48.62,delivered
+ORD-000462,2024-09-11,Sofía Ramírez,México,Cámara web HD,30.75,delivered
+ORD-000463,2024-09-30,Rosa Quispe,Perú,Teclado mecánico,145.17,delivered
+ORD-000464,2024-01-12,Diego Herrera,Chile,Silla ergonómica,214.16,shipped
+ORD-000465,2025-11-14,Mateo Acosta,Argentina,"Tablet 10""",203.20,delivered
+ORD-000466,2025-05-29,Diego Herrera,Chile,"Monitor 27""",401.55,delivered
+ORD-000467,2024-10-29,Diego Herrera,Chile,"Tablet 10""",315.39,delivered
+ORD-000468,2025-05-04,Andrés Salazar,Colombia,Teclado mecánico,61.08,cancelled
+ORD-000469,2025-07-16,Claire Dubois,Francia,Auriculares Bluetooth,293.84,delivered
+ORD-000470,2024-08-11,Lena Schmidt,Alemania,Smartphone X,909.49,shipped
+ORD-000471,2025-06-22,Claire Dubois,Francia,Impresora láser,234.02,pending
+ORD-000472,2024-04-24,Mateo Acosta,Argentina,Laptop Air 13,730.88,cancelled
+ORD-000473,2025-08-09,Lena Schmidt,Alemania,Router WiFi 6,136.60,delivered
+ORD-000474,2025-03-28,Jorge Castillo,México,Auriculares Bluetooth,54.87,pending
+ORD-000475,2024-04-03,Valentina Gómez,Colombia,"Tablet 10""",554.50,shipped
+ORD-000476,2024-05-15,Emily Johnson,Estados Unidos,Smartphone X,710.60,delivered
+ORD-000477,2025-04-18,Emily Johnson,Estados Unidos,Silla ergonómica,362.20,delivered
+ORD-000478,2024-09-17,Diego Herrera,Chile,"Tablet 10""",517.40,delivered
+ORD-000479,2025-03-09,Valentina Gómez,Colombia,Silla ergonómica,244.03,delivered
+ORD-000480,2024-03-11,Marta Ruiz,España,Disco SSD 1 TB,188.20,returned
+ORD-000481,2024-07-03,Daniel Smith,Estados Unidos,Laptop Pro 14,1438.28,delivered
+ORD-000482,2025-01-26,Miguel Chávez,Perú,Auriculares Bluetooth,154.56,returned
+ORD-000483,2025-11-08,Rosa Quispe,Perú,Altavoz portátil,160.56,delivered
+ORD-000484,2024-05-01,Sofía Ramírez,México,Escritorio ajustable,314.59,pending
+ORD-000485,2024-08-16,Lena Schmidt,Alemania,Altavoz portátil,154.40,delivered
+ORD-000486,2025-07-11,Ana Torres,España,Ratón inalámbrico,38.33,delivered
+ORD-000487,2025-04-16,Rosa Quispe,Perú,Impresora láser,203.85,delivered
+ORD-000488,2024-04-25,Camila Rojas,Chile,Teclado mecánico,48.38,cancelled
+ORD-000489,2024-01-17,Miguel Chávez,Perú,Silla ergonómica,206.64,pending
+ORD-000490,2025-04-02,Marta Ruiz,España,Laptop Air 13,998.89,shipped
+ORD-000491,2025-02-15,Luis Fernández,España,Teclado mecánico,91.09,shipped
+ORD-000492,27-02-2024,Lena Schmidt,Alemania,Teclado mecánico,59.71,pending
+ORD-000493,2025-08-12,Diego Herrera,Chile,Teclado mecánico,78.48,pending
+ORD-000494,2024-11-24,Claire Dubois,Francia,Smartphone X,489.52,shipped
+ORD-000495,2025-02-27,Sofía Ramírez,México,Escritorio ajustable,379.27,delivered
+ORD-000487,2024-06-28,Luis Fernández,España,Disco SSD 1 TB,141.38,cancelled
+ORD-000083,2024-12-18,Miguel Chávez,Perú,Disco SSD 1 TB,182.41,delivered
+ORD-000498,2025-12-14,Rosa Quispe,Perú,Smartphone X,633.06,delivered
+ORD-000499,2025-07-04,Sofía Ramírez,México,Ratón inalámbrico,41.04,delivered
+ORD-000500,2024-05-27,Andrés Salazar,Colombia,Ratón inalámbrico,59.32,pending
+ORD-000501,2025-03-02,Luis Fernández,España,Disco SSD 1 TB,132.45,delivered
+ORD-000502,2024-07-27,Sofía Ramírez,México,Altavoz portátil,76.19,delivered
+ORD-000503,2025-01-14,Marta Ruiz,España,Router WiFi 6,56.64,delivered
+ORD-000504,2025-11-20,Valentina Gómez,Colombia,Laptop Pro 14,1323.48,delivered
+ORD-000505,2025-08-24,Luis Fernández,España,Impresora láser,317.29,delivered
+ORD-000506,2024-12-06,Lena Schmidt,Alemania,Teclado mecánico,76.83,delivered
+ORD-000507,2024-04-30,Ana Torres,España,Teclado mecánico,123.42,cancelled
+ORD-000508,2025-09-10,Daniel Smith,Estados Unidos,Router WiFi 6,166.68,delivered
+ORD-000509,2024-11-25,Rosa Quispe,Perú,Router WiFi 6,179.59,delivered
+ORD-000510,2025-01-02,Rosa Quispe,Perú,Cámara web HD,63.93,delivered
+ORD-000511,2025-04-22,Mateo Acosta,Argentina,Disco SSD 1 TB,72.82,pending
+ORD-000512,2024-07-27,Daniel Smith,Estados Unidos,Smartphone X,596.56,pending
+ORD-000513,2024-08-14,Miguel Chávez,Perú,Laptop Pro 14,1418.88,shipped
+ORD-000514,2025-08-21,Ana Torres,España,Ratón inalámbrico,46.85,shipped
+ORD-000515,2024-12-03,Miguel Chávez,Perú,Ratón inalámbrico,27.65,delivered
+ORD-000516,2025-07-17,Jonas Weber,Alemania,Impresora láser,296.38,delivered
+ORD-000517,2025-05-15,Lucía Ibáñez,Argentina,Ratón inalámbrico,68.16,pending
+ORD-000518,2024-12-26,Daniel Smith,Estados Unidos,Cámara web HD,48.62,delivered
+ORD-000519,2025-07-09,Lena Schmidt,Alemania,Cámara web HD,138.94,delivered
+ORD-000520,2024-03-17,Luis Fernández,España,Disco SSD 1 TB,182.87,delivered
+ORD-000521,2024-05-20,Luis Fernández,España,Smartphone X,974.04,delivered
+ORD-000522,2024-01-10,Andrés Salazar,Colombia,Laptop Air 13,809.36,shipped
+ORD-000523,2025-10-15,Emily Johnson,Estados Unidos,Auriculares Bluetooth,220.03,delivered
+ORD-000524,2025-05-14,Claire Dubois,Francia,Router WiFi 6,42.83,delivered
+ORD-000525,2024-01-18,Lena Schmidt,Alemania,Disco SSD 1 TB,128.82,delivered
+ORD-000526,2024-01-18,Camila Rojas,Chile,Disco SSD 1 TB,125.29,returned
+ORD-000527,2024-07-02,Miguel Chávez,Perú,Smartphone X,385.61,cancelled
+ORD-000528,2024-07-15,Carlos Mendoza,México,Disco SSD 1 TB,140.57,delivered
+ORD-000529,2025-02-10,Camila Rojas,Chile,Impresora láser,123.71,delivered
+ORD-000530,2025-12-14,Rosa Quispe,Perú,Cámara web HD,54.84,shipped
+ORD-000531,2025-10-27,Marta Ruiz,España,Escritorio ajustable,622.58,returned
+ORD-000532,2025-07-19,Marta Ruiz,España,Altavoz portátil,98.78,delivered
+ORD-000533,2025-05-26,Ana Torres,España,"Tablet 10""",530.40,delivered
+ORD-000534,2024-04-07,Lucía Ibáñez,Argentina,Silla ergonómica,442.12,returned
+ORD-000535,2025-12-09,Luis Fernández,España,Teclado mecánico,138.19,delivered
+ORD-000536,2024-03-17,Daniel Smith,Estados Unidos,Ratón inalámbrico,52.64,delivered
+ORD-000537,2025-11-04,Camila Rojas,Chile,Router WiFi 6,45.92,delivered
+ORD-000538,2025-08-24,Lucía Ibáñez,Argentina,Laptop Pro 14,1000.93,returned
+ORD-000539,2024-06-15,Rosa Quispe,Perú,Router WiFi 6,141.51,delivered
+ORD-000540,2025-11-24,Jonas Weber,Alemania,Impresora láser,368.96,pending
+ORD-000541,2024-05-23,Lucía Ibáñez,Argentina,Altavoz portátil,147.53,pending
+ORD-000542,2024-12-20,Marta Ruiz,España,Disco SSD 1 TB,66.98,shipped
+ORD-000543,2024-12-14,Miguel Chávez,Perú,Teclado mecánico,108.54,pending
+ORD-000544,2024-11-30,Claire Dubois,Francia,Silla ergonómica,130.67,delivered
+ORD-000545,2025-05-17,Camila Rojas,Chile,Smartphone X,482.51,returned
+ORD-000546,2025-11-27,Lena Schmidt,Alemania,Altavoz portátil,115.81,delivered
+ORD-000547,2024-10-29,Rosa Quispe,Perú,Laptop Air 13,1099.03,pending
+ORD-000548,2025-01-24,Marta Ruiz,España,Laptop Air 13,1055.84,delivered
+ORD-000549,2025-01-04,Sofía Ramírez,México,"Tablet 10""",197.95,delivered
+ORD-000550,2024-10-03,Ana Torres,España,Ratón inalámbrico,20.62,delivered
+ORD-000551,2025-07-24,Marta Ruiz,España,"Monitor 27""",313.14,delivered
+ORD-000552,2024-12-28,Miguel Chávez,Perú,Laptop Air 13,977.11,delivered
+ORD-000553,2025-01-29,Claire Dubois,Francia,Silla ergonómica,124.44,pending
+ORD-000554,2025-07-26,Miguel Chávez,Perú,Altavoz portátil,165.31,pending
+ORD-000555,2025-12-02,Andrés Salazar,Colombia,Silla ergonómica,257.06,delivered
+ORD-000556,2025-05-19,Sofía Ramírez,México,Ratón inalámbrico,,delivered
+ORD-000557,2024-11-02,Jorge Castillo,México,Altavoz portátil,100.06,delivered
+ORD-000558,2024-09-09,Marta Ruiz,España,Auriculares Bluetooth,236.27,delivered
+ORD-000559,2025-04-13,Daniel Smith,Estados Unidos,Silla ergonómica,158.51,shipped
+ORD-000560,2024-12-06,Diego Herrera,Chile,Laptop Pro 14,1489.13,cancelled
+ORD-000561,2025-03-26,Rosa Quispe,Perú,Smartphone X,567.79,pending
+ORD-000562,2025-09-09,Claire Dubois,Francia,"Monitor 27""",407.35,delivered
+ORD-000563,2025-02-11,Valentina Gómez,Colombia,Cámara web HD,136.56,delivered
+ORD-000564,2025-05-17,Diego Herrera,Chile,"Tablet 10""",585.49,shipped
+ORD-000565,2025-02-06,Andrés Salazar,Colombia,Auriculares Bluetooth,129.50,delivered
+ORD-000566,2025-07-12,Jonas Weber,Alemania,Teclado mecánico,63.89,shipped
+ORD-000103,2025-04-17,Lena Schmidt,Alemania,Laptop Pro 14,1560.08,cancelled
+ORD-000568,2025-12-10,Valentina Gómez,Colombia,Cámara web HD,37.61,pending
+ORD-000569,2025-10-10,Miguel Chávez,Perú,Escritorio ajustable,380.50,delivered
+ORD-000220,2025-03-09,Camila Rojas,Chile,Escritorio ajustable,638.21,delivered
+ORD-000571,2025-05-05,Marta Ruiz,España,Cámara web HD,94.05,returned
+ORD-000521,2025-12-09,Lena Schmidt,Alemania,Disco SSD 1 TB,114.38,cancelled
+ORD-000573,2025-12-19,Luis Fernández,España,Smartphone X,1016.40,returned
+ORD-000411,2024-03-28,Lena Schmidt,Alemania,Silla ergonómica,159.37,shipped
+ORD-000575,2024-06-19,Andrés Salazar,Colombia,Escritorio ajustable,562.91,shipped
+ORD-000576,2025-11-24,Luis Fernández,España,Silla ergonómica,352.83,returned
+ORD-000577,2024-01-11,Lucía Ibáñez,Argentina,Smartphone X,378.89,delivered
+ORD-000578,2025-07-25,Andrés Salazar,Colombia,Disco SSD 1 TB,135.47,shipped
+ORD-000579,2025-02-04,Jonas Weber,Alemania,Teclado mecánico,93.62,delivered
+ORD-000580,2024-12-19,Jonas Weber,Alemania,"Tablet 10""",598.97,delivered
+ORD-000581,2024-03-28,Daniel Smith,Estados Unidos,Laptop Air 13,758.03,delivered
+ORD-000582,2025-04-11,Sofía Ramírez,México,Auriculares Bluetooth,255.28,delivered
+ORD-000583,2024-04-09,Hannah Miller,Estados Unidos,Cámara web HD,78.20,delivered
+ORD-000584,2024-02-15,Emily Johnson,Estados Unidos,Auriculares Bluetooth,263.06,delivered
+ORD-000585,2025-10-25,Carlos Mendoza,México,Laptop Pro 14,976.55,pending
+ORD-000586,2024-09-06,Jorge Castillo,México,Router WiFi 6,132.88,returned
+ORD-000587,2025-03-12,Lena Schmidt,Alemania,"Monitor 27""",410.03,delivered
+ORD-000588,2024-07-07,Andrés Salazar,Colombia,Smartphone X,449.11,delivered
+ORD-000589,2025-09-20,Miguel Chávez,Perú,Altavoz portátil,161.88,delivered
+ORD-000590,2024-01-05,Emily Johnson,Estados Unidos,Silla ergonómica,373.70,delivered
+ORD-000591,2024-03-05,Valentina Gómez,Colombia,Ratón inalámbrico,46.75,pending
+ORD-000592,2024-07-20,Lena Schmidt,Alemania,"Monitor 27""",,delivered
+ORD-000347,2025-06-24,Camila Rojas,Chile,Escritorio ajustable,731.94,pending
+ORD-000594,2025-02-05,Lucía Ibáñez,Argentina,Silla ergonómica,331.32,delivered
+ORD-000595,2025-09-24,Mateo Acosta,Argentina,Auriculares Bluetooth,71.76,pending
+ORD-000596,2024-03-27,Diego Herrera,Chile,Router WiFi 6,160.98,shipped
+ORD-000597,2024-04-29,Lucía Ibáñez,Argentina,Laptop Air 13,791.52,delivered
+ORD-000598,2025-09-02,Sofía Ramírez,México,Disco SSD 1 TB,77.92,delivered
+ORD-000599,2025-10-12,Rosa Quispe,Perú,Altavoz portátil,108.29,delivered
+ORD-000600,2024-10-22,Jorge Castillo,México,Disco SSD 1 TB,78.24,delivered
+ORD-000601,2024-02-24,Lucía Ibáñez,Argentina,Impresora láser,359.66,delivered
+ORD-000602,2025-01-28,Ana Torres,España,Cámara web HD,136.02,delivered
+ORD-000603,2025-12-02,Hannah Miller,Estados Unidos,Escritorio ajustable,480.61,delivered
+ORD-000604,2025-08-01,Emily Johnson,Estados Unidos,Cámara web HD,33.39,delivered
+ORD-000605,2024-08-18,Andrés Salazar,Colombia,Ratón inalámbrico,44.57,delivered
+ORD-000606,2025-05-22,Jorge Castillo,México,Smartphone X,739.78,delivered
+ORD-000607,2025-07-10,Carlos Mendoza,México,Silla ergonómica,416.38,delivered
+ORD-000608,2024-02-12,Mateo Acosta,Argentina,Disco SSD 1 TB,158.80,pending
+ORD-000609,2025-03-11,Emily Johnson,Estados Unidos,Disco SSD 1 TB,73.31,delivered
+ORD-000610,2024-02-03,Andrés Salazar,Colombia,Ratón inalámbrico,39.74,pending
+ORD-000611,2025-03-25,Mateo Acosta,Argentina,Impresora láser,359.59,pending
+ORD-000612,2024-08-02,Carlos Mendoza,México,Smartphone X,948.56,pending
+ORD-000613,2025-12-28,Jonas Weber,Alemania,"Tablet 10""",424.62,delivered
+ORD-000614,2024-07-30,Miguel Chávez,Perú,"Monitor 27""",375.25,shipped
+ORD-000615,2024-10-14,Luis Fernández,España,Silla ergonómica,334.87,delivered
+ORD-000616,2024-10-26,Jorge Castillo,México,Auriculares Bluetooth,106.80,returned
+ORD-000617,2025-11-26,Camila Rojas,Chile,Impresora láser,344.55,delivered
+ORD-000618,2024-03-01,Sofía Ramírez,México,Smartphone X,1093.99,pending
+ORD-000619,2024-09-12,Sofía Ramírez,México,"Tablet 10""",215.81,pending
+ORD-000620,2025-11-23,Lucía Ibáñez,Argentina,Impresora láser,217.81,delivered
+ORD-000621,2025-10-04,Sofía Ramírez,México,Silla ergonómica,269.12,shipped
+ORD-000622,2024-04-05,Emily Johnson,Estados Unidos,Laptop Air 13,901.43,shipped
+ORD-000623,2025-01-12,Camila Rojas,Chile,"Tablet 10""",354.61,cancelled
+ORD-000624,2024-04-05,Daniel Smith,Estados Unidos,Auriculares Bluetooth,239.28,shipped
+ORD-000625,2025-01-01,Emily Johnson,Estados Unidos,Escritorio ajustable,670.56,shipped
+ORD-000626,2025-03-15,Lena Schmidt,Alemania,Altavoz portátil,152.85,delivered
+ORD-000627,2024-10-17,Daniel Smith,Estados Unidos,Ratón inalámbrico,33.58,delivered
+ORD-000564,2025-05-11,Jonas Weber,Alemania,"Monitor 27""",369.19,shipped
+ORD-000629,2025-04-15,Luis Fernández,España,Laptop Pro 14,911.40,delivered
+ORD-000630,2025-03-14,Jorge Castillo,México,Cámara web HD,52.26,delivered
+ORD-000631,2024-06-11,Sofía Ramírez,México,Router WiFi 6,197.40,shipped
+ORD-000632,13/09/2024,Camila Rojas,Chile,Laptop Air 13,741.21,shipped
+ORD-000633,2024-11-08,Jorge Castillo,México,Laptop Pro 14,,delivered
+ORD-000634,2025-12-21,Andrés Salazar,Colombia,Altavoz portátil,39.75,shipped
+ORD-000635,2025-08-30,Valentina Gómez,Colombia,Cámara web HD,54.88,delivered
+ORD-000636,2024-12-17,Emily Johnson,Estados Unidos,Laptop Pro 14,1471.98,delivered
+ORD-000637,2024-03-13,Miguel Chávez,Perú,"Tablet 10""",253.03,delivered
+ORD-000638,2024-04-15,Marta Ruiz,España,"Tablet 10""",291.01,pending
+ORD-000639,2024-05-16,Diego Herrera,Chile,"Monitor 27""",333.98,delivered
+ORD-000640,2024-01-09,Sofía Ramírez,México,Laptop Air 13,1005.16,delivered
+ORD-000641,2024-08-06,Jorge Castillo,México,Cámara web HD,99.09,delivered
+ORD-000642,2025-12-04,Sofía Ramírez,México,Router WiFi 6,119.63,delivered
+ORD-000643,2024-05-23,Valentina Gómez,Colombia,Laptop Air 13,1076.22,pending
+ORD-000644,2025-03-15,Jonas Weber,Alemania,"Tablet 10""",291.53,delivered
+ORD-000645,2024-03-27,Sofía Ramírez,México,Teclado mecánico,71.06,delivered
+ORD-000646,2024-10-18,Claire Dubois,Francia,Silla ergonómica,400.43,shipped
+ORD-000647,2024-11-04,Ana Torres,España,Impresora láser,161.63,pending
+ORD-000648,2025-02-05,Claire Dubois,Francia,Disco SSD 1 TB,98.42,delivered
+ORD-000649,2024-09-02,Luis Fernández,España,Smartphone X,695.91,pending
+ORD-000650,2025-08-31,Carlos Mendoza,México,Teclado mecánico,52.46,delivered
+ORD-000651,2024-05-15,Ana Torres,España,Auriculares Bluetooth,136.05,cancelled
+ORD-000652,2025-11-30,Jonas Weber,Alemania,Altavoz portátil,51.78,delivered
+ORD-000653,2025-08-24,Daniel Smith,Estados Unidos,Smartphone X,354.03,delivered
+ORD-000654,2024-03-02,Camila Rojas,Chile,Teclado mecánico,144.61,delivered
+ORD-000655,2025-12-30,Rosa Quispe,Perú,Disco SSD 1 TB,125.14,delivered
+ORD-000656,2024-03-25,Miguel Chávez,Perú,Altavoz portátil,124.28,shipped
+ORD-000657,2024-03-26,Lena Schmidt,Alemania,Silla ergonómica,231.57,delivered
+ORD-000658,2024-06-08,Hannah Miller,Estados Unidos,Router WiFi 6,136.55,delivered
+ORD-000659,2025-10-27,Rosa Quispe,Perú,Silla ergonómica,365.18,shipped
+ORD-000660,2024-09-01,Marta Ruiz,España,Ratón inalámbrico,18.18,shipped
+ORD-000661,2025-04-09,Marta Ruiz,España,Router WiFi 6,150.21,delivered
+ORD-000662,2025-11-04,Luis Fernández,España,Ratón inalámbrico,55.74,shipped
+ORD-000663,2025-12-19,Carlos Mendoza,México,Laptop Pro 14,907.95,shipped
+ORD-000664,2024-09-22,Daniel Smith,Estados Unidos,Auriculares Bluetooth,70.09,delivered
+ORD-000665,2024-10-02,Sofía Ramírez,México,"Tablet 10""",479.82,pending
+ORD-000666,2024-12-09,Carlos Mendoza,México,Smartphone X,945.69,pending
+ORD-000667,2025-12-30,Camila Rojas,Chile,Disco SSD 1 TB,186.76,delivered
+ORD-000668,2025-01-03,Marta Ruiz,España,Cámara web HD,36.10,delivered
+ORD-000669,18/09/2024,Jonas Weber,Alemania,"Monitor 27""",365.60,delivered
+ORD-000670,2024-08-21,Jonas Weber,Alemania,Escritorio ajustable,612.61,shipped
+ORD-000671,2024-01-13,Ana Torres,España,Laptop Pro 14,1071.19,pending
+ORD-000672,2024-06-02,Daniel Smith,Estados Unidos,Auriculares Bluetooth,73.69,delivered
+ORD-000673,2025-11-02,Luis Fernández,España,Disco SSD 1 TB,114.52,pending
+ORD-000674,2024-11-23,Lucía Ibáñez,Argentina,Teclado mecánico,73.48,delivered
+ORD-000675,2025-05-29,Marta Ruiz,España,Silla ergonómica,362.40,delivered
+ORD-000676,2025-06-12,Luis Fernández,España,"Monitor 27""",415.54,delivered
+ORD-000677,2024-10-16,Rosa Quispe,Perú,Laptop Air 13,1086.76,pending
+ORD-000678,2025-04-12,Diego Herrera,Chile,Auriculares Bluetooth,22.39,delivered
+ORD-000679,2024-11-07,Valentina Gómez,Colombia,Ratón inalámbrico,55.68,shipped
+ORD-000680,2025-05-20,Andrés Salazar,Colombia,Cámara web HD,139.76,delivered
+ORD-000681,2024-09-08,Valentina Gómez,Colombia,"Tablet 10""",217.75,cancelled
+ORD-000682,2024-12-20,Miguel Chávez,Perú,Laptop Pro 14,1345.16,delivered
+ORD-000683,2025-11-04,Ana Torres,España,Auriculares Bluetooth,132.88,delivered
+ORD-000684,2024-08-31,Diego Herrera,Chile,Laptop Air 13,909.91,delivered
+ORD-000685,2024-04-05,Luis Fernández,España,"Monitor 27""",190.54,shipped
+ORD-000686,2025-02-26,Andrés Salazar,Colombia,Router WiFi 6,166.15,pending
+ORD-000687,2024-03-27,Mateo Acosta,Argentina,Cámara web HD,93.88,returned
+ORD-000688,2025-02-07,Hannah Miller,Estados Unidos,"Monitor 27""",197.96,shipped
+ORD-000689,2024-05-13,Jonas Weber,Alemania,Laptop Pro 14,1065.74,delivered
+ORD-000690,2025-02-06,Camila Rojas,Chile,Impresora láser,310.22,delivered
+ORD-000691,2024-08-27,Lucía Ibáñez,Argentina,Auriculares Bluetooth,42.41,delivered
+ORD-000692,2025-08-21,Valentina Gómez,Colombia,"Monitor 27""",206.15,pending
+ORD-000693,2024-11-17,Carlos Mendoza,México,"Monitor 27""",277.56,delivered
+ORD-000694,2024-07-31,Lena Schmidt,Alemania,Auriculares Bluetooth,155.58,returned
+ORD-000695,2024-04-02,Emily Johnson,Estados Unidos,Ratón inalámbrico,23.67,pending
+ORD-000696,2025-09-09,Diego Herrera,Chile,Impresora láser,112.10,shipped
+ORD-000697,2024-09-11,Lucía Ibáñez,Argentina,"Monitor 27""",412.42,delivered
+ORD-000629,2024-11-02,Rosa Quispe,Perú,Disco SSD 1 TB,93.82,delivered
+ORD-000699,2025-04-08,Jorge Castillo,México,Laptop Pro 14,1289.17,cancelled
+ORD-000700,2024-04-14,Lena Schmidt,Alemania,Teclado mecánico,129.41,delivered
+ORD-000701,2024-08-15,Sofía Ramírez,México,Laptop Air 13,765.36,delivered
+ORD-000702,2025-10-22,Rosa Quispe,Perú,Auriculares Bluetooth,45.21,shipped
+ORD-000703,2024-03-17,Jonas Weber,Alemania,Ratón inalámbrico,16.20,cancelled
+ORD-000704,2025-03-30,Marta Ruiz,España,Teclado mecánico,129.98,cancelled
+ORD-000705,2024-12-05,Marta Ruiz,España,Router WiFi 6,62.05,pending
+ORD-000706,2025-08-10,Emily Johnson,Estados Unidos,Laptop Pro 14,1203.21,delivered
+ORD-000707,2025-11-30,Rosa Quispe,Perú,Cámara web HD,76.93,delivered
+ORD-000708,2024-10-08,Mateo Acosta,Argentina,Teclado mecánico,74.38,cancelled
+ORD-000709,2025-09-23,Sofía Ramírez,México,Laptop Pro 14,1072.05,shipped
+ORD-000710,2025-07-17,Diego Herrera,Chile,Cámara web HD,82.69,delivered
+ORD-000711,2025-03-05,Marta Ruiz,España,Ratón inalámbrico,25.97,delivered
+ORD-000712,2025-07-10,Hannah Miller,Estados Unidos,Teclado mecánico,128.46,shipped
+ORD-000713,2025-05-06,Rosa Quispe,Perú,Smartphone X,735.61,shipped
+ORD-000714,2025-05-29,Daniel Smith,Estados Unidos,Auriculares Bluetooth,116.48,cancelled
+ORD-000715,2025-09-03,Camila Rojas,Chile,"Monitor 27""",232.56,delivered
+ORD-000716,2025-04-28,Camila Rojas,Chile,Laptop Pro 14,1270.60,pending
+ORD-000717,2024-04-12,Jonas Weber,Alemania,Teclado mecánico,71.02,returned
+ORD-000718,2024-02-27,Andrés Salazar,Colombia,Ratón inalámbrico,57.02,delivered
+ORD-000719,2025-02-01,Andrés Salazar,Colombia,Silla ergonómica,247.73,pending
+ORD-000720,2024-11-21,Jorge Castillo,México,"Monitor 27""",,delivered
+ORD-000721,2025-12-21,Mateo Acosta,Argentina,Router WiFi 6,166.10,shipped
+ORD-000722,2024-07-11,Jonas Weber,Alemania,Silla ergonómica,421.21,delivered
+ORD-000723,2025-05-17,Daniel Smith,Estados Unidos,Disco SSD 1 TB,64.94,delivered
+ORD-000724,2024-01-21,Luis Fernández,España,Teclado mecánico,100.28,shipped
+ORD-000725,2024-07-25,Ana Torres,España,Auriculares Bluetooth,261.93,cancelled
+ORD-000726,2024-11-27,Lucía Ibáñez,Argentina,"Tablet 10""",176.80,delivered
+ORD-000727,2024-05-25,Sofía Ramírez,México,Silla ergonómica,398.77,shipped
+ORD-000728,2024-03-15,Hannah Miller,Estados Unidos,Impresora láser,212.08,delivered
+ORD-000729,2024-11-05,Rosa Quispe,Perú,Silla ergonómica,236.14,delivered
+ORD-000730,2025-10-16,Jorge Castillo,México,"Tablet 10""",582.30,cancelled
+ORD-000731,2025-07-29,Lucía Ibáñez,Argentina,"Monitor 27""",346.45,shipped
+ORD-000732,2025-11-12,Claire Dubois,Francia,Smartphone X,771.16,delivered
+ORD-000733,2025-12-06,Jorge Castillo,México,Altavoz portátil,70.65,delivered
+ORD-000734,2025-12-19,Jorge Castillo,México,"Tablet 10""",576.91,delivered
+ORD-000735,2025-08-04,Rosa Quispe,Perú,Impresora láser,109.71,returned
+ORD-000736,2025-09-18,Claire Dubois,Francia,Auriculares Bluetooth,86.27,cancelled
+ORD-000737,2024-05-24,Jonas Weber,Alemania,Laptop Air 13,865.58,cancelled
+ORD-000738,2024-11-23,Marta Ruiz,España,Teclado mecánico,62.63,delivered
+ORD-000739,2025-10-16,Marta Ruiz,España,Impresora láser,318.79,shipped
+ORD-000740,2024-08-02,Lucía Ibáñez,Argentina,Cámara web HD,57.45,delivered
+ORD-000741,2024-04-20,Marta Ruiz,España,Auriculares Bluetooth,236.12,delivered
+ORD-000742,05/03/2025,Luis Fernández,España,Altavoz portátil,175.21,delivered
+ORD-000743,2024-12-25,Miguel Chávez,Perú,Cámara web HD,90.06,pending
+ORD-000744,2025-08-14,Carlos Mendoza,México,Impresora láser,295.29,delivered
+ORD-000745,2024-02-04,Andrés Salazar,Colombia,"Monitor 27""",250.78,delivered
+ORD-000746,2024-03-16,Lucía Ibáñez,Argentina,Ratón inalámbrico,33.80,cancelled
+ORD-000747,2025-07-14,Rosa Quispe,Perú,"Monitor 27""",406.04,shipped
+ORD-000748,2025-09-20,Marta Ruiz,España,Auriculares Bluetooth,287.97,shipped
+ORD-000749,2024-06-17,Ana Torres,España,Altavoz portátil,119.13,cancelled
+ORD-000750,2024-12-05,Miguel Chávez,Perú,"Monitor 27""",229.33,delivered
+ORD-000751,2025-07-07,Valentina Gómez,Colombia,Altavoz portátil,66.12,shipped
+ORD-000752,2024-02-20,Diego Herrera,Chile,Ratón inalámbrico,36.61,delivered
+ORD-000753,2024-02-25,Lena Schmidt,Alemania,Impresora láser,208.25,delivered
+ORD-000754,2025-11-08,Miguel Chávez,Perú,Laptop Air 13,1012.55,delivered
+ORD-000755,2024-07-30,Daniel Smith,Estados Unidos,Teclado mecánico,62.94,delivered
+ORD-000756,2024-04-28,Diego Herrera,Chile,Laptop Air 13,,delivered
+ORD-000757,2025-11-07,Rosa Quispe,Perú,Cámara web HD,59.15,delivered
+ORD-000758,2025-01-25,Lena Schmidt,Alemania,Altavoz portátil,82.26,delivered
+ORD-000759,2025-04-21,Emily Johnson,Estados Unidos,Laptop Pro 14,1084.38,delivered
+ORD-000760,2025-12-14,Camila Rojas,Chile,Silla ergonómica,360.29,delivered
+ORD-000761,2025-07-08,Marta Ruiz,España,Escritorio ajustable,439.41,delivered
+ORD-000762,2025-01-31,Jonas Weber,Alemania,Teclado mecánico,130.93,shipped
+ORD-000763,2025-05-01,Miguel Chávez,Perú,Disco SSD 1 TB,134.45,shipped
+ORD-000764,2025-02-08,Andrés Salazar,Colombia,Cámara web HD,129.31,delivered
+ORD-000765,2025-06-13,Luis Fernández,España,Disco SSD 1 TB,164.06,shipped
+ORD-000766,2025-04-04,Claire Dubois,Francia,"Monitor 27""",221.49,delivered
+ORD-000767,2024-05-09,Jorge Castillo,México,Teclado mecánico,49.48,pending
+ORD-000768,2025-10-04,Marta Ruiz,España,Escritorio ajustable,298.38,delivered
+ORD-000769,2024-03-09,Claire Dubois,Francia,Ratón inalámbrico,19.79,delivered
+ORD-000770,2024-10-09,Lena Schmidt,Alemania,Altavoz portátil,105.55,shipped
+ORD-000771,2025-08-24,Ana Torres,España,Smartphone X,718.05,shipped
+ORD-000772,2024-05-31,Miguel Chávez,Perú,Laptop Air 13,983.30,delivered
+ORD-000773,2024-04-12,Jonas Weber,Alemania,Smartphone X,1039.94,returned
+ORD-000774,2024-10-19,Jonas Weber,Alemania,Smartphone X,993.98,delivered
+ORD-000714,2025-01-27,Mateo Acosta,Argentina,Router WiFi 6,157.86,delivered
+ORD-000776,2024-06-25,Jonas Weber,Alemania,Silla ergonómica,219.15,delivered
+ORD-000777,2025-12-11,Sofía Ramírez,México,Silla ergonómica,264.62,shipped
+ORD-000778,2025-12-08,Rosa Quispe,Perú,Router WiFi 6,82.76,pending
+ORD-000779,2025-01-16,Daniel Smith,Estados Unidos,Router WiFi 6,43.64,delivered
+ORD-000780,2025-05-18,Diego Herrera,Chile,Ratón inalámbrico,,delivered
+ORD-000781,2024-11-03,Carlos Mendoza,México,Impresora láser,392.27,delivered
+ORD-000782,2024-10-02,Emily Johnson,Estados Unidos,Smartphone X,883.04,pending
+ORD-000783,2025-03-28,Claire Dubois,Francia,Escritorio ajustable,332.04,delivered
+ORD-000784,2025-06-12,Miguel Chávez,Perú,"Tablet 10""",540.24,delivered
+ORD-000785,2024-03-08,Luis Fernández,España,Disco SSD 1 TB,100.45,pending
+ORD-000786,2025-06-20,Hannah Miller,Estados Unidos,Altavoz portátil,161.30,delivered
+ORD-000787,2024-07-24,Ana Torres,España,"Monitor 27""",380.87,delivered
+ORD-000788,2025-01-04,Andrés Salazar,Colombia,Laptop Pro 14,1393.24,delivered
+ORD-000789,2025-06-01,Camila Rojas,Chile,Auriculares Bluetooth,139.08,pending
+ORD-000790,2025-01-16,Carlos Mendoza,México,Escritorio ajustable,479.06,delivered
+ORD-000791,2025-04-30,Emily Johnson,Estados Unidos,"Monitor 27""",,returned
+ORD-000792,2024-09-21,Mateo Acosta,Argentina,Auriculares Bluetooth,244.69,delivered
+ORD-000793,2024-02-20,Marta Ruiz,España,Ratón inalámbrico,23.96,delivered
+ORD-000794,2024-08-14,Jonas Weber,Alemania,Smartphone X,817.90,returned
+ORD-000795,2025-06-09,Valentina Gómez,Colombia,Ratón inalámbrico,16.10,shipped
+ORD-000796,2025-10-24,Ana Torres,España,Cámara web HD,49.05,cancelled
+ORD-000797,2024-11-08,Ana Torres,España,Teclado mecánico,119.84,delivered
+ORD-000798,2024-12-23,Camila Rojas,Chile,Altavoz portátil,96.14,pending
+ORD-000799,2025-06-17,Valentina Gómez,Colombia,Cámara web HD,120.67,delivered
+ORD-000800,2025-06-07,Rosa Quispe,Perú,Silla ergonómica,479.79,delivered
+ORD-000801,2025-09-15,Mateo Acosta,Argentina,Disco SSD 1 TB,96.75,shipped
+ORD-000802,2024-10-10,Carlos Mendoza,México,Cámara web HD,100.47,delivered
+ORD-000803,2025-10-29,Camila Rojas,Chile,Ratón inalámbrico,31.43,shipped
+ORD-000701,2024-02-28,Sofía Ramírez,México,Disco SSD 1 TB,164.71,pending
+ORD-000805,2025-11-28,Claire Dubois,Francia,Altavoz portátil,46.69,shipped
+ORD-000806,2024-10-29,Ana Torres,España,Escritorio ajustable,357.50,delivered
+ORD-000807,2024-02-06,Miguel Chávez,Perú,Altavoz portátil,115.37,delivered
+ORD-000808,2025-12-31,Jonas Weber,Alemania,Impresora láser,166.71,delivered
+ORD-000809,2025-11-18,Lena Schmidt,Alemania,Escritorio ajustable,410.00,pending
+ORD-000810,2025-11-04,Diego Herrera,Chile,Impresora láser,362.95,delivered
+ORD-000811,2024-05-11,Jorge Castillo,México,Ratón inalámbrico,55.75,delivered
+ORD-000812,2025-11-27,Lena Schmidt,Alemania,Smartphone X,1019.67,cancelled
+ORD-000813,2024-11-10,Marta Ruiz,España,Teclado mecánico,89.15,delivered
+ORD-000814,2024-10-28,Lucía Ibáñez,Argentina,Auriculares Bluetooth,159.13,delivered
+ORD-000815,2025-10-11,Carlos Mendoza,México,Cámara web HD,94.19,delivered
+ORD-000816,2024-07-18,Claire Dubois,Francia,Laptop Air 13,950.24,delivered
+ORD-000817,2024-02-25,Rosa Quispe,Perú,Disco SSD 1 TB,173.21,delivered
+ORD-000818,2024-12-16,Sofía Ramírez,México,"Monitor 27""",278.21,returned
+ORD-000819,2025-04-13,Jonas Weber,Alemania,Router WiFi 6,65.78,cancelled
+ORD-000820,2024-12-06,Jorge Castillo,México,Smartphone X,804.83,delivered
+ORD-000821,2024-01-05,Jorge Castillo,México,Auriculares Bluetooth,155.62,shipped
+ORD-000822,2025-08-13,Valentina Gómez,Colombia,Smartphone X,911.59,pending
+ORD-000823,2024-03-31,Daniel Smith,Estados Unidos,Smartphone X,403.52,pending
+ORD-000824,2025-03-15,Miguel Chávez,Perú,Escritorio ajustable,731.62,delivered
+ORD-000825,2024-07-23,Rosa Quispe,Perú,Laptop Pro 14,1411.46,delivered
+ORD-000826,2025-06-27,Ana Torres,España,Router WiFi 6,74.30,delivered
+ORD-000827,2024-08-19,Ana Torres,España,Escritorio ajustable,587.57,shipped
+ORD-000828,2025-01-27,Mateo Acosta,Argentina,Ratón inalámbrico,42.68,delivered
+ORD-000829,2024-02-16,Diego Herrera,Chile,"Monitor 27""",251.57,delivered
+ORD-000830,2025-09-02,Diego Herrera,Chile,Cámara web HD,87.65,shipped
+ORD-000831,2024-05-17,Miguel Chávez,Perú,Router WiFi 6,101.69,shipped
+ORD-000832,2024-06-17,Daniel Smith,Estados Unidos,Auriculares Bluetooth,304.43,pending
+ORD-000833,2024-05-14,Rosa Quispe,Perú,Laptop Pro 14,1047.83,delivered
+ORD-000834,2024-05-06,Ana Torres,España,Silla ergonómica,251.97,delivered
+ORD-000835,2024-09-18,Luis Fernández,España,Altavoz portátil,144.54,pending
+ORD-000836,2024-02-19,Claire Dubois,Francia,Laptop Pro 14,,shipped
+ORD-000837,2025-03-02,Ana Torres,España,Laptop Pro 14,1211.02,shipped
+ORD-000838,2025-12-19,Carlos Mendoza,México,Disco SSD 1 TB,79.91,delivered
+ORD-000839,2024-04-13,Ana Torres,España,Ratón inalámbrico,51.44,delivered
+ORD-000840,2024-05-20,Camila Rojas,Chile,Silla ergonómica,270.78,shipped
+ORD-000841,2024-04-30,Carlos Mendoza,México,Disco SSD 1 TB,96.75,shipped
+ORD-000842,2024-07-23,Carlos Mendoza,México,Cámara web HD,115.58,delivered
+ORD-000843,2025-02-23,Hannah Miller,Estados Unidos,Teclado mecánico,76.01,delivered
+ORD-000844,"July 31, 2024",Luis Fernández,España,Disco SSD 1 TB,149.47,delivered
+ORD-000845,2024-01-14,Daniel Smith,Estados Unidos,Auriculares Bluetooth,221.49,delivered
+ORD-000846,2025-05-20,Carlos Mendoza,México,Impresora láser,144.74,shipped
+ORD-000847,2024-04-13,Marta Ruiz,España,Smartphone X,1023.82,delivered
+ORD-000848,2024-10-30,Andrés Salazar,Colombia,Cámara web HD,59.05,returned
+ORD-000849,2024-02-10,Luis Fernández,España,Laptop Air 13,1126.12,pending
+ORD-000850,2025-03-12,Mateo Acosta,Argentina,Smartphone X,890.83,shipped
+ORD-000851,2024-02-16,Carlos Mendoza,México,Impresora láser,102.90,pending
+ORD-000852,2024-12-02,Sofía Ramírez,México,Escritorio ajustable,409.49,shipped
+ORD-000853,2024-04-05,Emily Johnson,Estados Unidos,Silla ergonómica,254.14,delivered
+ORD-000854,2025-02-13,Lucía Ibáñez,Argentina,"Monitor 27""",410.95,delivered
+ORD-000855,2025-05-04,Camila Rojas,Chile,Impresora láser,339.97,delivered
+ORD-000856,2024-03-01,Jorge Castillo,México,Laptop Air 13,1190.78,delivered
+ORD-000857,2025-08-27,Jorge Castillo,México,Laptop Air 13,941.34,delivered
+ORD-000858,2025-09-17,Jonas Weber,Alemania,Escritorio ajustable,421.27,delivered
+ORD-000859,2025-12-01,Mateo Acosta,Argentina,Silla ergonómica,436.78,delivered
+ORD-000860,2024-04-25,Sofía Ramírez,México,Cámara web HD,127.64,cancelled
+ORD-000861,2025-11-01,Emily Johnson,Estados Unidos,Laptop Pro 14,1119.97,delivered
+ORD-000862,2025-08-01,Hannah Miller,Estados Unidos,Smartphone X,479.19,shipped
+ORD-000863,2025-12-18,Lucía Ibáñez,Argentina,Disco SSD 1 TB,140.37,delivered
+ORD-000864,08/05/2025,Miguel Chávez,Perú,Escritorio ajustable,403.25,shipped
+ORD-000865,2025-07-25,Rosa Quispe,Perú,"Monitor 27""",394.09,pending
+ORD-000866,2024-06-09,Claire Dubois,Francia,Laptop Pro 14,1253.90,delivered
+ORD-000867,2024-06-18,Daniel Smith,Estados Unidos,Impresora láser,122.46,delivered
+ORD-000868,2024-10-11,Daniel Smith,Estados Unidos,Auriculares Bluetooth,35.11,delivered
+ORD-000869,2025-02-16,Andrés Salazar,Colombia,Disco SSD 1 TB,166.22,shipped
+ORD-000870,2025-08-09,Marta Ruiz,España,Cámara web HD,79.29,delivered
+ORD-000871,2025-05-24,Daniel Smith,Estados Unidos,Cámara web HD,111.98,delivered
+ORD-000872,2024-02-06,Ana Torres,España,Laptop Air 13,978.57,delivered
+ORD-000873,2025-09-10,Ana Torres,España,Impresora láser,388.95,delivered
+ORD-000874,2024-07-30,Diego Herrera,Chile,Router WiFi 6,157.83,delivered
+ORD-000875,2024-02-25,Emily Johnson,Estados Unidos,Auriculares Bluetooth,264.98,delivered
+ORD-000876,2025-09-26,Emily Johnson,Estados Unidos,Auriculares Bluetooth,199.99,shipped
+ORD-000877,2024-04-09,Mateo Acosta,Argentina,"Tablet 10""",491.69,delivered
+ORD-000878,2025-10-10,Andrés Salazar,Colombia,Laptop Pro 14,1575.10,delivered
+ORD-000879,2025-12-19,Diego Herrera,Chile,Disco SSD 1 TB,73.82,delivered
+ORD-000880,2025-02-23,Jorge Castillo,México,Cámara web HD,41.77,delivered
+ORD-000881,2025-02-06,Claire Dubois,Francia,Teclado mecánico,67.64,delivered
+ORD-000882,2025-02-28,Valentina Gómez,Colombia,"Tablet 10""",170.93,delivered
+ORD-000883,2025-04-06,Jonas Weber,Alemania,Laptop Air 13,928.69,pending
+ORD-000884,2025-05-25,Jonas Weber,Alemania,Disco SSD 1 TB,60.56,delivered
+ORD-000885,2025-08-22,Luis Fernández,España,Disco SSD 1 TB,122.78,cancelled
+ORD-000886,2024-06-30,Hannah Miller,Estados Unidos,Smartphone X,853.45,cancelled
+ORD-000887,2024-04-16,Jorge Castillo,México,"Tablet 10""",324.33,pending
+ORD-000888,2025-05-31,Claire Dubois,Francia,Silla ergonómica,437.30,pending
+ORD-000889,2024-09-11,Miguel Chávez,Perú,Silla ergonómica,218.49,cancelled
+ORD-000890,2024-05-16,Lucía Ibáñez,Argentina,Ratón inalámbrico,22.60,delivered
+ORD-000891,2025-06-08,Claire Dubois,Francia,"Tablet 10""",284.51,pending
+ORD-000892,2025-07-20,Lena Schmidt,Alemania,Impresora láser,289.77,delivered
+ORD-000893,2024-10-24,Valentina Gómez,Colombia,Teclado mecánico,117.09,shipped
+ORD-000894,2024-07-01,Sofía Ramírez,México,"Tablet 10""",376.75,shipped
+ORD-000895,2024-12-26,Lucía Ibáñez,Argentina,"Tablet 10""",403.03,delivered
+ORD-000896,2025-12-28,Jonas Weber,Alemania,Silla ergonómica,270.29,cancelled
+ORD-000897,2025-03-08,Lena Schmidt,Alemania,Ratón inalámbrico,59.46,pending
+ORD-000898,2024-05-28,Hannah Miller,Estados Unidos,Laptop Air 13,726.53,delivered
+ORD-000899,2024-06-13,Luis Fernández,España,Teclado mecánico,148.27,delivered
+ORD-000900,2025-12-08,Camila Rojas,Chile,"Monitor 27""",368.25,pending
+ORD-000901,2025-01-02,Valentina Gómez,Colombia,Smartphone X,951.22,delivered
+ORD-000902,2025-07-29,Carlos Mendoza,México,Silla ergonómica,431.34,pending
+ORD-000903,2025-12-13,Lena Schmidt,Alemania,Altavoz portátil,69.58,delivered
+ORD-000904,2025-03-02,Luis Fernández,España,Router WiFi 6,212.21,delivered
+ORD-000905,2024-09-14,Lucía Ibáñez,Argentina,Disco SSD 1 TB,86.40,delivered
+ORD-000906,2025-10-10,Emily Johnson,Estados Unidos,Impresora láser,311.39,delivered
+ORD-000907,2025-09-09,Mateo Acosta,Argentina,Smartphone X,457.18,shipped
+ORD-000908,2025-11-30,Valentina Gómez,Colombia,Ratón inalámbrico,19.10,delivered
+ORD-000909,2025-01-21,Jorge Castillo,México,"Tablet 10""",168.29,delivered
+ORD-000910,2024-06-13,Camila Rojas,Chile,Disco SSD 1 TB,135.92,delivered
+ORD-000911,2025-12-27,Camila Rojas,Chile,Laptop Pro 14,1556.25,delivered
+ORD-000912,2025-09-03,Luis Fernández,España,"Monitor 27""",192.21,cancelled
+ORD-000913,2025-05-17,Claire Dubois,Francia,Impresora láser,336.97,shipped
+ORD-000914,2025-12-25,Lena Schmidt,Alemania,Auriculares Bluetooth,115.36,delivered
+ORD-000915,2025-06-01,Andrés Salazar,Colombia,"Monitor 27""",218.25,delivered
+ORD-000916,2024-12-23,Lena Schmidt,Alemania,Disco SSD 1 TB,88.76,delivered
+ORD-000917,2025-01-04,Valentina Gómez,Colombia,Escritorio ajustable,375.59,delivered
+ORD-000918,2025-07-28,Claire Dubois,Francia,Disco SSD 1 TB,167.08,delivered
+ORD-000919,2025-04-01,Ana Torres,España,Laptop Air 13,820.17,shipped
+ORD-000920,2024-02-10,Claire Dubois,Francia,Router WiFi 6,162.86,shipped
+ORD-000921,2024-04-26,Lucía Ibáñez,Argentina,Altavoz portátil,84.81,cancelled
+ORD-000922,2025-06-13,Lena Schmidt,Alemania,"Tablet 10""",519.95,delivered
+ORD-000923,2025-04-01,Mateo Acosta,Argentina,Disco SSD 1 TB,123.28,pending
+ORD-000924,2024-11-24,Diego Herrera,Chile,Router WiFi 6,132.50,shipped
+ORD-000925,2025-07-04,Carlos Mendoza,México,"Monitor 27""",307.97,returned
+ORD-000926,2024-08-06,Marta Ruiz,España,Teclado mecánico,135.82,shipped
+ORD-000927,2025-07-04,Miguel Chávez,Perú,Impresora láser,348.62,delivered
+ORD-000928,2024-03-14,Miguel Chávez,Perú,Escritorio ajustable,615.85,pending
+ORD-000929,2024-12-05,Sofía Ramírez,México,Laptop Pro 14,926.52,delivered
+ORD-000930,2024-09-14,Marta Ruiz,España,Laptop Pro 14,1290.66,delivered
+ORD-000931,2024-09-21,Jonas Weber,Alemania,Impresora láser,222.29,delivered
+ORD-000932,2024-11-19,Emily Johnson,Estados Unidos,Escritorio ajustable,228.95,delivered
+ORD-000933,2025-09-25,Carlos Mendoza,México,Disco SSD 1 TB,68.22,delivered
+ORD-000934,2024-03-15,Jonas Weber,Alemania,Laptop Pro 14,1150.39,shipped
+ORD-000935,2025-12-03,Hannah Miller,Estados Unidos,Laptop Air 13,850.68,delivered
+ORD-000936,2025-03-24,Marta Ruiz,España,Ratón inalámbrico,35.98,pending
+ORD-000937,2024-08-13,Ana Torres,España,Cámara web HD,45.00,delivered
+ORD-000938,2025-07-12,Rosa Quispe,Perú,Smartphone X,535.98,pending
+ORD-000939,2025-10-25,Sofía Ramírez,México,Ratón inalámbrico,35.52,shipped
+ORD-000940,2024-05-24,Ana Torres,España,Disco SSD 1 TB,76.02,pending
+ORD-000941,2025-07-04,Ana Torres,España,Silla ergonómica,317.11,shipped
+ORD-000942,2024-12-18,Marta Ruiz,España,Ratón inalámbrico,26.65,delivered
+ORD-000943,2024-08-14,Hannah Miller,Estados Unidos,"Monitor 27""",328.05,delivered
+ORD-000944,2025-11-18,Camila Rojas,Chile,Teclado mecánico,128.96,delivered
+ORD-000945,2025-07-16,Luis Fernández,España,Impresora láser,238.38,pending
+ORD-000946,2024-03-09,Lena Schmidt,Alemania,Laptop Air 13,825.34,delivered
+ORD-000947,2024-12-04,Valentina Gómez,Colombia,"Tablet 10""",310.71,shipped
+ORD-000948,2024-03-12,Andrés Salazar,Colombia,Laptop Air 13,1150.06,delivered
+ORD-000949,2025-09-23,Lucía Ibáñez,Argentina,Cámara web HD,102.54,delivered
+ORD-000950,2025-01-08,Jonas Weber,Alemania,"Monitor 27""",373.85,shipped
+ORD-000951,2024-09-09,Miguel Chávez,Perú,"Monitor 27""",368.56,delivered
+ORD-000952,2024-05-17,Miguel Chávez,Perú,Ratón inalámbrico,52.38,pending
+ORD-000953,2025-04-01,Lucía Ibáñez,Argentina,Router WiFi 6,104.57,delivered
+ORD-000954,2024-06-28,Diego Herrera,Chile,Cámara web HD,101.01,shipped
+ORD-000955,2024-05-23,Marta Ruiz,España,Impresora láser,367.39,delivered
+ORD-000956,2025-10-03,Valentina Gómez,Colombia,Ratón inalámbrico,19.21,shipped
+ORD-000957,2025-06-03,Marta Ruiz,España,Router WiFi 6,153.69,delivered
+ORD-000958,2025-08-27,Jonas Weber,Alemania,Silla ergonómica,196.59,delivered
+ORD-000959,2025-07-06,Luis Fernández,España,Disco SSD 1 TB,121.37,delivered
+ORD-000960,2025-08-26,Sofía Ramírez,México,Auriculares Bluetooth,239.97,delivered
+ORD-000961,2025-06-06,Diego Herrera,Chile,"Monitor 27""",201.73,delivered
+ORD-000962,2024-09-01,Mateo Acosta,Argentina,Disco SSD 1 TB,170.24,delivered
+ORD-000963,2025-06-10,Claire Dubois,Francia,Escritorio ajustable,294.40,delivered
+ORD-000964,2025-08-02,Jorge Castillo,México,"Monitor 27""",338.26,shipped
+ORD-000965,2025-01-02,Sofía Ramírez,México,"Tablet 10""",168.19,shipped
+ORD-000966,2025-01-13,Daniel Smith,Estados Unidos,Teclado mecánico,69.57,delivered
+ORD-000967,2025-01-04,Valentina Gómez,Colombia,Disco SSD 1 TB,110.45,cancelled
+ORD-000968,2025-10-26,Emily Johnson,Estados Unidos,Router WiFi 6,98.33,delivered
+ORD-000969,2024/09/26,Hannah Miller,Estados Unidos,Escritorio ajustable,526.67,pending
+ORD-000970,2025-01-22,Jonas Weber,Alemania,"Monitor 27""",267.67,delivered
+ORD-000971,2024-08-16,Marta Ruiz,España,Disco SSD 1 TB,127.13,delivered
+ORD-000972,2025-05-13,Mateo Acosta,Argentina,Impresora láser,337.80,pending
+ORD-000973,2024-05-22,Claire Dubois,Francia,Laptop Pro 14,1207.93,delivered
+ORD-000974,2024-10-14,Andrés Salazar,Colombia,Laptop Air 13,805.76,delivered
+ORD-000975,2024-05-01,Jorge Castillo,México,"Monitor 27""",338.67,delivered
+ORD-000976,2024-04-26,Miguel Chávez,Perú,Smartphone X,685.21,delivered
+ORD-000977,2024-06-14,Daniel Smith,Estados Unidos,Cámara web HD,101.20,delivered
+ORD-000978,2024-05-10,Miguel Chávez,Perú,Laptop Pro 14,1301.44,delivered
+ORD-000979,2024-02-10,Jorge Castillo,México,"Monitor 27""",393.79,shipped
+ORD-000980,2024-07-03,Sofía Ramírez,México,Laptop Pro 14,1261.65,delivered
+ORD-000981,2025-10-14,Rosa Quispe,Perú,Silla ergonómica,126.70,returned
+ORD-000982,2025-09-13,Diego Herrera,Chile,Laptop Air 13,,delivered
+ORD-000983,2025-02-24,Daniel Smith,Estados Unidos,"Monitor 27""",324.20,delivered
+ORD-000984,2025-09-30,Jonas Weber,Alemania,Impresora láser,297.89,pending
+ORD-000985,2024-12-16,Camila Rojas,Chile,"Monitor 27""",401.36,shipped
+ORD-000986,2025-01-22,Claire Dubois,Francia,Silla ergonómica,258.77,delivered
+ORD-000987,2025-05-31,Carlos Mendoza,México,Laptop Pro 14,1379.06,delivered
+ORD-000988,2025-05-02,Sofía Ramírez,México,Silla ergonómica,444.58,delivered
+ORD-000989,2025-06-28,Claire Dubois,Francia,Laptop Pro 14,1252.33,pending
+ORD-000990,2024-05-13,Carlos Mendoza,México,Laptop Air 13,1150.99,delivered
+ORD-000991,2025-11-25,Lena Schmidt,Alemania,Impresora láser,294.77,delivered
+ORD-000992,2024-02-14,Hannah Miller,Estados Unidos,Altavoz portátil,133.13,delivered
+ORD-000993,2025-05-08,Miguel Chávez,Perú,Teclado mecánico,127.90,cancelled
+ORD-000994,2025-12-14,Rosa Quispe,Perú,Auriculares Bluetooth,192.84,shipped
+ORD-000995,2024-08-26,Miguel Chávez,Perú,"Monitor 27""",398.42,delivered
+ORD-000996,2025-07-10,Marta Ruiz,España,Ratón inalámbrico,37.48,shipped
+ORD-000997,2024-01-08,Valentina Gómez,Colombia,Laptop Pro 14,1304.59,shipped
+ORD-000998,2025-11-01,Carlos Mendoza,México,Disco SSD 1 TB,86.70,delivered
+ORD-000999,2024-06-07,Lucía Ibáñez,Argentina,Altavoz portátil,91.04,delivered
+ORD-001000,2025-07-02,Jonas Weber,Alemania,Ratón inalámbrico,38.30,delivered
