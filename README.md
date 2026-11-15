@@ -2,14 +2,17 @@
 
 Proyecto para generar, limpiar y analizar pedidos de ejemplo.
 
-El trabajo está dividido en fases:
+El trabajo está dividido en cinco fases:
 
-1. **Generación de datos**: crea un CSV sintético reproducible con errores
-   intencionados.
-2. **Limpieza y persistencia** (Fase 3): valida los pedidos, elimina
-   duplicados y registros inválidos, y guarda los datos válidos en SQLite.
-3. **Vistas SQL** (Fase 4): crea vistas de análisis sobre la tabla `orders`.
-4. **API y LLM** (Fase 5): expone un endpoint que convierte preguntas en
+1. **Inicialización del proyecto**: establece la estructura,
+   las dependencias y la configuración inicial.
+2. **Generación de datos**: crea un CSV sintético reproducible
+   con errores intencionados.
+3. **Limpieza y persistencia**: valida los pedidos, elimina
+   duplicados y registros inválidos, y guarda los datos válidos
+   en SQLite.
+4. **Vistas SQL**: crea vistas de análisis sobre la tabla `orders`.
+5. **API y LLM**: expone un endpoint que convierte preguntas en
    lenguaje natural en SQL validado y de solo lectura.
 
 ## Requisitos
@@ -48,7 +51,7 @@ tests/
   test_api.py
 ```
 
-## Fase 1: generar los pedidos
+## Fase 2: generar los pedidos
 
 ```bash
 python -m app.generate_orders
@@ -289,3 +292,32 @@ El SQL del LLM **nunca se considera confiable**:
 ```bash
 pytest -v
 ```
+
+## Mejoras futuras
+
+Las siguientes ideas son posibles mejoras a futuro y **no forman parte del
+alcance implementado**:
+
+- Soporte para PostgreSQL además de SQLite.
+- Manejo de importes monetarios con precisión decimal.
+- Paginación y filtros para consultas con muchos resultados.
+- Más pruebas de integración y configuración de CI.
+- Autenticación y límites de uso de la API.
+
+## Uso de inteligencia artificial
+
+Durante el desarrollo de este proyecto se utilizaron herramientas de IA
+como apoyo, con revisión humana de las propuestas antes de implementarlas:
+
+- Se utilizó ChatGPT para analizar los requisitos, definir la arquitectura
+  por fases, revisar decisiones técnicas y evaluar resultados.
+- Se utilizó OpenCode como asistente de programación para analizar, proponer
+  e implementar cambios de forma incremental.
+- Las propuestas se revisaron antes de implementarse; se mantuvo el alcance
+  solicitado y se verificaron los cambios mediante revisión del código y
+  pruebas automatizadas.
+- Se adaptó la configuración del proveedor LLM para utilizar un servidor
+  local compatible con la API de OpenAI (`llama.cpp` con Qwen 2.5 Coder),
+  en lugar de depender exclusivamente de un proveedor comercial.
+- Las pruebas se ejecutaron localmente y se verificó el comportamiento real
+  de la API.
